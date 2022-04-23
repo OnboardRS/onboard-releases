@@ -2,7 +2,7 @@
 _Release Date: 2022-04-28_
 ### This release is the first pass at the DMS and RDS configuration to replicate the MYSQL onboard-production DB in DigitalOcean to our AWS Prod account in the RDS Instance: `onboardrs-prod-mysql`
 ---
-## Epics || 35
+## Epics || 35 pts.
  `Epic` - AWS DMS - +`35 pts.` - :x:open - [#2](https://github.com/OnboardRS/onboard-ops/issues/2)
  > Productionize the Digital Ocean to AWS RDS Lab, into something long term and useful
 ---
@@ -28,7 +28,7 @@ _Release Date: 2022-04-28_
 </p>
 </details>
 
-## Issues || 8
+## Issues || 8 pts.
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+8</td><td>Issue</td><td>ReleaseHub</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/onboard-ops/issues/3">#3</a></td> </tr>
