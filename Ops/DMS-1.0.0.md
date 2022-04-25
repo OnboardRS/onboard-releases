@@ -22,7 +22,7 @@ Linked Issues: `14` with a total of `35` pts.
 <tr><td>+3</td><td>Issue</td><td>RDS MySQL</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/6">pulumi-aws-dms-mysql/#6</a></td> </tr>
 <tr><td>+3</td><td>Issue</td><td>AWS Secrets</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/7">pulumi-aws-dms-mysql/#7</a></td> </tr>
 <tr><td>+5</td><td>Issue</td><td>AWS Secret Rotation</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/8">pulumi-aws-dms-mysql/#8</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>DMS Endpoints</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/9">pulumi-aws-dms-mysql/#9</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>DMS Endpoints</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/9">pulumi-aws-dms-mysql/#9</a></td> </tr>
 <tr><td>+3</td><td>Issue</td><td>DMS Replication Tasks</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/10">pulumi-aws-dms-mysql/#10</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>Add NAT Gateway IPs to Digital Ocean for PROD AWS Account</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/11">pulumi-aws-dms-mysql/#11</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>DMS IAM Role</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/12">pulumi-aws-dms-mysql/#12</a></td> </tr>
