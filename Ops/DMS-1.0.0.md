@@ -1,4 +1,4 @@
-# Release DMS - 1.0.0 || TotalPoints: 43
+# Release DMS-1.0.0 || TotalPoints: 43
 _Release Date: 2022-04-28_
 ### This release is the first pass at the DMS and RDS configuration to replicate the MYSQL onboard-production DB in DigitalOcean to our AWS Prod account in the RDS Instance: `onboardrs-prod-mysql`
 ---
@@ -14,7 +14,7 @@ Linked Issues: `14` with a total of `35` pts.
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+3</td><td>Issue</td><td>DMS Replication Instance</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/1">pulumi-aws-dms-mysql/#1</a></td> </tr>
-<tr><td>+3</td><td>Issue</td><td>Fix Pulumi Publish action to include Secrets Provider</td><td>bug </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/onboard-ops/issues/1">onboard-ops/#1</a></td> </tr>
+<tr><td>+3</td><td>Issue</td><td>Fix Pulumi Publish action to include Secrets Provider</td><td>bug </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/onboard-ops/issues/1">onboard-ops/#1</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>DMS Subnet Group</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/2">pulumi-aws-dms-mysql/#2</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>MYSQL Security Group</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/3">pulumi-aws-dms-mysql/#3</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>RDS SubnetGroup</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/4">pulumi-aws-dms-mysql/#4</a></td> </tr>
