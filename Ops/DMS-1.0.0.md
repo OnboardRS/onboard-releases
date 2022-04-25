@@ -31,5 +31,5 @@ _Release Date: 2022-04-28_
 ## Issues || 8 pts.
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+8</td><td>Issue</td><td>ReleaseHub</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/onboard-ops/issues/3">onboard-ops/#3</a></td> </tr>
+<tr><td>+8</td><td>Issue</td><td>ReleaseHub</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/onboard-ops/issues/3">onboard-ops/#3</a></td> </tr>
 </table>
