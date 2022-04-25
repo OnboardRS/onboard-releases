@@ -6,7 +6,7 @@ _Release Date: 2022-04-28_
  `Epic` - AWS DMS - +`35 pts.` - :x:open - [onboard-ops/#2](https://github.com/OnboardRS/onboard-ops/issues/2)
  > Productionize the Digital Ocean to AWS RDS Lab, into something long term and useful
 ---
-<details><summary>Linked Issues:</summary>
+<details><summary>Linked Issues: `14`</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
