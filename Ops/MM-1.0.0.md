@@ -21,6 +21,8 @@ Linked Issues: `5` with a total of `14` pts.
 </table>
 </p>
 </details>
+
+
  `Epic` - AWS UI Service Infrastructure - +`0 pts.` - :x:open - [zenhub-ops/#8](https://github.com/OnboardRS/zenhub-ops/issues/8)
  > This is for the UI architecture that results in:
 
@@ -40,6 +42,8 @@ Linked Issues: `0` with a total of `0` pts.
 </table>
 </p>
 </details>
+
+
 
 ## Issues || 8 pts.
 <table>
