@@ -1,5 +1,5 @@
 # Release Marketing-1.0.0 || TotalPoints: 0 || Status: In Progress
-_Release Date: 2022-05-12_
+_Release Date: 2022-06-30_
 ### This release represents the retrofit of the PHP Legacy Admin Site, to include Contentful.
 The reason behind this release is to help make the current platform more adaptive to the sales demand.
 
