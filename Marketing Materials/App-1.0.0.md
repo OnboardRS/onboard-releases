@@ -1,6 +1,6 @@
 # Release App-1.0.0 || TotalPoints: 0 || Status: In Progress
 _Release Date: 2022-05-12_
-### This is the initial release of the Marketing Materials application.
+ > This is the initial release of the Marketing Materials application.
 This app was built to help automate the generation of property marketing flyers.
 This app also uses Contentful to give the Onboard Property Marketing team more granular control over the content.
 ---

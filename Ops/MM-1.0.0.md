@@ -1,6 +1,6 @@
 # Release MM-1.0.0 || TotalPoints: 22 || Status: In Progress
 _Release Date: 2022-05-12_
-### This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
+ > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
 ## Epics || 14 pts.
  `Epic` - K8s CI/CD - +`14 pts.` - :x:open - [zenhub-ops/#17](https://github.com/OnboardRS/zenhub-ops/issues/17)
