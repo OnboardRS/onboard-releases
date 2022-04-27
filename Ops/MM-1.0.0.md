@@ -1,4 +1,4 @@
-# Release MM-1.0.0 || TotalPoints: 49
+# Release MM-1.0.0 || TotalPoints: 49 || Status: In Progress
 _Release Date: 2022-05-12_
 ### This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
