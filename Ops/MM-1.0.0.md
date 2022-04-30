@@ -1,4 +1,4 @@
-# Release MM-1.0.0 || TotalPoints: 22 || Status: In Progress
+# Release MM-1.0.0 || TotalPoints: 24 || Status: In Progress
 _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
@@ -45,9 +45,10 @@ Linked Issues: `0` with a total of `0` pts.
 
 
 
-## Issues || 8 pts.
+## Issues || 10 pts.
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+8</td><td>Issue</td><td>Internal K8s Ingress</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/18">zenhub-ops/#18</a></td> </tr>
 <tr><td>+0</td><td>Issue</td><td>Route53 Private Hosted Zone</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/19">zenhub-ops/#19</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>DMS -- IAM Role, needs CloudWatch access</td><td>bug </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/20">zenhub-ops/#20</a></td> </tr>
 </table>
