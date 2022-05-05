@@ -8,7 +8,7 @@ This app also uses Contentful to give the Onboard Property Marketing team more g
  `Epic` - Marketing Flyers Deployment - +`0 pts.` - :x:open - [zenhub-marketing-materials/#1](https://github.com/OnboardRS/zenhub-marketing-materials/issues/1)
  > 
 
-#### Labels: Epic 
+#### Labels: 
 ---
 Linked Issues: `1` with a total of `0` pts.
 <details><summary>View all 1 issue(s)</summary>

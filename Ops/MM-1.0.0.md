@@ -6,7 +6,7 @@ _Release Date: 2022-05-12_
  `Epic` - K8s CI/CD - +`14 pts.` - :x:open - [zenhub-ops/#17](https://github.com/OnboardRS/zenhub-ops/issues/17)
  > This is the generic CI/CD work that needs to take place, before we can onboard the marketing materials app into the eco system.
 
-#### Labels: Epic 
+#### Labels: 
 ---
 Linked Issues: `5` with a total of `14` pts.
 <details><summary>View all 5 issue(s)</summary>
@@ -32,7 +32,7 @@ Linked Issues: `5` with a total of `14` pts.
 
 This will be it's own pulumi project with accompanying todos
 
-#### Labels: Epic 
+#### Labels: 
 ---
 Linked Issues: `0` with a total of `0` pts.
 <details><summary>View all 0 issue(s)</summary>
@@ -50,5 +50,5 @@ Linked Issues: `0` with a total of `0` pts.
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+8</td><td>Issue</td><td>Internal K8s Ingress</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/18">zenhub-ops/#18</a></td> </tr>
 <tr><td>+0</td><td>Issue</td><td>Route53 Private Hosted Zone</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/19">zenhub-ops/#19</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>DMS -- IAM Role, needs CloudWatch access</td><td>bug </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/20">zenhub-ops/#20</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>DMS -- IAM Role, needs CloudWatch access</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/20">zenhub-ops/#20</a></td> </tr>
 </table>
