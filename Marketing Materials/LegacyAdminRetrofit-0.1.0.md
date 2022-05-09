@@ -5,8 +5,8 @@ The reason behind this release is to help make the current platform more adaptiv
 The major design goal behind this release was to use Contentful to drive all the copy that is currently a mix of templates / hardcoded strings today. This allows us to meet the demands of the business sooner, and not throw away the effort when we build the new Onboard Platform.
 We estimate 75% or more of the work done in this release, will be carried forward into the new platform
 ---
-## Epics || 15 pts.
- `Epic` - Leg-Res Dashboard  - +`10 pts.` - :x:open - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
+# Epics || 15 pts.
+### `Epic` - Leg-Res Dashboard  - +`10 pts.` - :x:open - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/c0176774-2c9e-4d6d-8cbb-3171a872f516)
 
 Design update and contentful integration
@@ -28,7 +28,7 @@ Linked Issues: `3` with a total of `10` pts.
 </details>
 
 
- `Epic` - Contentful Data Integration - +`5 pts.` - :x:open - [zenhub-product/#21](https://github.com/OnboardRS/zenhub-product/issues/21)
+### `Epic` - Contentful Data Integration - +`5 pts.` - :x:open - [zenhub-product/#21](https://github.com/OnboardRS/zenhub-product/issues/21)
  > 
 
 #### Labels: marketing-materials Epic 
@@ -44,7 +44,7 @@ Linked Issues: `1` with a total of `5` pts.
 </details>
 
 
- `Epic` - Legacy Landing Page Update - +`0 pts.` - :x:open - [zenhub-marketing-materials/#3](https://github.com/OnboardRS/zenhub-marketing-materials/issues/3)
+### `Epic` - Legacy Landing Page Update - +`0 pts.` - :x:open - [zenhub-marketing-materials/#3](https://github.com/OnboardRS/zenhub-marketing-materials/issues/3)
  > 
 
 #### Labels: 

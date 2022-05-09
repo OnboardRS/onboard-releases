@@ -2,8 +2,8 @@
 _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
-## Epics || 35 pts.
- `Epic` - pulumi-aws-mysql - +`21 pts.` - :x:open - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
+# Epics || 35 pts.
+### `Epic` - pulumi-aws-mysql - +`21 pts.` - :x:open - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
  > MYSQL RDS in lower lanes that create off S3 snapshot from Production
 
 #### Labels: Epic ops 
@@ -27,7 +27,7 @@ Linked Issues: `9` with a total of `21` pts.
 </details>
 
 
- `Epic` - K8s CI/CD - +`14 pts.` - :x:open - [zenhub-ops/#17](https://github.com/OnboardRS/zenhub-ops/issues/17)
+### `Epic` - K8s CI/CD - +`14 pts.` - :x:open - [zenhub-ops/#17](https://github.com/OnboardRS/zenhub-ops/issues/17)
  > This is the generic CI/CD work that needs to take place, before we can onboard the marketing materials app into the eco system.
 
 #### Labels: Epic ops 
@@ -47,7 +47,7 @@ Linked Issues: `5` with a total of `14` pts.
 </details>
 
 
- `Epic` - AWS UI Service Infrastructure - +`0 pts.` - :x:open - [zenhub-ops/#8](https://github.com/OnboardRS/zenhub-ops/issues/8)
+### `Epic` - AWS UI Service Infrastructure - +`0 pts.` - :x:open - [zenhub-ops/#8](https://github.com/OnboardRS/zenhub-ops/issues/8)
  > This is for the UI architecture that results in:
 
 - S3 Hosted static frontend

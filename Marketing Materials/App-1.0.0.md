@@ -4,8 +4,8 @@ _Release Date: 2022-05-12_
 This app was built to help automate the generation of property marketing flyers.
 This app also uses Contentful to give the Onboard Property Marketing team more granular control over the content.
 ---
-## Epics || 2 pts.
- `Epic` - Marketing Flyers Deployment - +`2 pts.` - :x:open - [zenhub-marketing-materials/#1](https://github.com/OnboardRS/zenhub-marketing-materials/issues/1)
+# Epics || 2 pts.
+### `Epic` - Marketing Flyers Deployment - +`2 pts.` - :x:open - [zenhub-marketing-materials/#1](https://github.com/OnboardRS/zenhub-marketing-materials/issues/1)
  > 
 
 #### Labels: 
