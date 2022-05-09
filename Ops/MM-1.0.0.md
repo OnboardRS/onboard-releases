@@ -1,4 +1,4 @@
-# Release MM-1.0.0 || TotalPoints: 37 || Status: In Progress
+# Release MM-1.0.0 || TotalPoints: 35 || Status: In Progress
 _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
@@ -69,8 +69,7 @@ Linked Issues: `0` with a total of `0` pts.
 
 
 
-## Issues || 2 pts.
+## Issues || 0 pts.
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+2</td><td>Issue</td><td>DMS -- IAM Role, needs CloudWatch access</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/20">zenhub-ops/#20</a></td> </tr>
 </table>
