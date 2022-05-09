@@ -1,20 +1,20 @@
-# Release MM-1.0.0 || TotalPoints: 34 || Status: In Progress
+# Release MM-1.0.0 || TotalPoints: 37 || Status: In Progress
 _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
-## Epics || 32 pts.
- `Epic` - pulumi-aws-mysql - +`18 pts.` - :x:open - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
+## Epics || 35 pts.
+ `Epic` - pulumi-aws-mysql - +`21 pts.` - :x:open - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
  > MYSQL RDS in lower lanes that create off S3 snapshot from Production
 
 #### Labels: Epic ops 
 ---
-Linked Issues: `9` with a total of `18` pts.
+Linked Issues: `9` with a total of `21` pts.
 <details><summary>View all 9 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+2</td><td>Issue</td><td>AWS Role and Policy</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-s3/issues/1">pulumi-aws-s3/#1</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>Setup Prod MYSQL snapshots to S3</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
+<tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshots to S3</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>Pulumi ENV and Configs for Dev/Stage</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/2">pulumi-aws-mysql/#2</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>RDS Subnet Group</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/3">pulumi-aws-mysql/#3</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>RDS Security Group</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/4">pulumi-aws-mysql/#4</a></td> </tr>
