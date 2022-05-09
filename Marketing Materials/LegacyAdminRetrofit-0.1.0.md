@@ -1,5 +1,5 @@
 # Release Legacy Admin Retrofit-0.1.0 || TotalPoints: 23 || Status: In Progress
-_Release Date: 2022-06-30_
+_Release Date: 2022-05-26_
  > This release represents the retrofit of the PHP Legacy Admin Site, to include Contentful.
 The reason behind this release is to help make the current platform more adaptive to the sales demand.
 The major design goal behind this release was to use Contentful to drive all the copy that is currently a mix of templates / hardcoded strings today. This allows us to meet the demands of the business sooner, and not throw away the effort when we build the new Onboard Platform.
