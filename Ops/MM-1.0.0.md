@@ -62,7 +62,7 @@ Linked Issues: `9` with a total of `21` pts.
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+2</td><td>Issue</td><td>AWS Role and Policy</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-s3/issues/1">pulumi-aws-s3/#1</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>AWS Role and Policy</td><td>ops wont-fix </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-s3/issues/1">pulumi-aws-s3/#1</a></td> </tr>
 <tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>Pulumi ENV and Configs for Dev/Stage</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/2">pulumi-aws-mysql/#2</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>RDS Subnet Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/3">pulumi-aws-mysql/#3</a></td> </tr>
