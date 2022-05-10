@@ -1,8 +1,8 @@
-# Release MM-1.0.0 || TotalPoints: 40 || Status: In Progress
+# Release MM-1.0.0 || TotalPoints: 38 || Status: In Progress
 _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
-# Epics || 40 pts.
+# Epics || 38 pts.
 ### `Epic` - pulumi-aws-s3 - +`0 pts.` - :x:open - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
  > We need a top level pulumi project for S3 buckets that are needed by services, but ARE NOT hosting UI.
 These are purely data buckets in a central location to manage them.
@@ -52,17 +52,16 @@ Linked Issues: `1` with a total of `5` pts.
 </details>
 
 
-### `Epic` - pulumi-aws-mysql - +`21 pts.` - :x:open - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
+### `Epic` - pulumi-aws-mysql - +`19 pts.` - :x:open - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
  > MYSQL RDS in lower lanes that create off S3 snapshot from Production
 
 #### Labels: Epic ops 
 ---
-Linked Issues: `9` with a total of `21` pts.
-<details><summary>View all 9 issue(s)</summary>
+Linked Issues: `8` with a total of `19` pts.
+<details><summary>View all 8 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+2</td><td>Issue</td><td>AWS Role and Policy</td><td>ops wont-fix </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-s3/issues/1">pulumi-aws-s3/#1</a></td> </tr>
 <tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>Pulumi ENV and Configs for Dev/Stage</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/2">pulumi-aws-mysql/#2</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>RDS Subnet Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/3">pulumi-aws-mysql/#3</a></td> </tr>
