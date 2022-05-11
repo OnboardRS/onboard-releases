@@ -53,7 +53,7 @@ Linked Issues: `1` with a total of `5` pts.
 
 
 ### `Epic` - pulumi-aws-mysql - +`19 pts.` - :x:open - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
- > MYSQL RDS in lower lanes that create off S3 snapshot from Production
+ > MYSQL RDS in lower lanes that create off a shared snapshot from AWS-Prod
 
 #### Labels: Epic ops 
 ---
