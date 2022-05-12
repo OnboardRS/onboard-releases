@@ -53,10 +53,10 @@ Linked Issues: `4` with a total of `5` pts.
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+1</td><td>Issue</td><td>Marketing API - Email Domain Validation</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/7">zenhub-marketing-materials/#7</a></td> </tr>
-<tr><td>+1</td><td>Issue</td><td>LR - Add Jwt table migration to MySQL</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/8">zenhub-marketing-materials/#8</a></td> </tr>
+<tr><td>+1</td><td>Issue</td><td>Marketing API - Email Domain Validation</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/7">zenhub-marketing-materials/#7</a></td> </tr>
+<tr><td>+1</td><td>Issue</td><td>LR - Add Jwt table migration to MySQL</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/8">zenhub-marketing-materials/#8</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>LR - Marketing Materials Helper Class</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/9">zenhub-marketing-materials/#9</a></td> </tr>
-<tr><td>+1</td><td>Issue</td><td>MM Service - Contentful Fields for LR Retrofit</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/10">zenhub-marketing-materials/#10</a></td> </tr>
+<tr><td>+1</td><td>Issue</td><td>MM Service - Contentful Fields for LR Retrofit</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/10">zenhub-marketing-materials/#10</a></td> </tr>
 </table>
 </p>
 </details>
@@ -90,6 +90,6 @@ Linked Issues: `0` with a total of `0` pts.
 <tr><td>+2</td><td>Issue</td><td>LR - Content Preview</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/11">zenhub-marketing-materials/#11</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>Legacy Resident FAQ Hotfixes</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/12">zenhub-marketing-materials/#12</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>LR - Content Preview MM Service</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/13">zenhub-marketing-materials/#13</a></td> </tr>
-<tr><td>+1</td><td>Issue</td><td>LR - Content Preview MMAPI</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/14">zenhub-marketing-materials/#14</a></td> </tr>
+<tr><td>+1</td><td>Issue</td><td>LR - Content Preview MMAPI</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/14">zenhub-marketing-materials/#14</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>Sync Contentful Properties with S3</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/15">zenhub-dev/#15</a></td> </tr>
 </table>
