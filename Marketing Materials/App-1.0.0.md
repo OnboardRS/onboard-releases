@@ -21,7 +21,3 @@ Linked Issues: `2` with a total of `2` pts.
 
 
 
-## Issues without Epics: || 0 pts.
-<table>
-<tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-</table>
