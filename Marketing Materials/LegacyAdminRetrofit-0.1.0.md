@@ -70,7 +70,7 @@ Linked Issues: `0` with a total of `0` pts.
 
 
 
-## Issues || 20 pts.
+## Issues without Epics: || 20 pts.
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+1</td><td>Issue</td><td>LR-Landing Content Model</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/2">zenhub-dev/#2</a></td> </tr>
