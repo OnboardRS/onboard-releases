@@ -16,7 +16,6 @@ https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7
 #### Labels: marketing-materials Epic 
 ---
 Linked Issues: `3` with a total of `9` pts.
-<details><summary>View all 3 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -25,7 +24,6 @@ Linked Issues: `3` with a total of `9` pts.
 <tr><td>+1</td><td>Issue</td><td>LR-Resident Dashboard Content Model</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/8">zenhub-dev/#8</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 ### `Epic` - Leg-res-accept terms page - +`0 pts.` - :heavy_check_mark:closed - [zenhub-product/#17](https://github.com/OnboardRS/zenhub-product/issues/17)
@@ -34,13 +32,11 @@ Linked Issues: `3` with a total of `9` pts.
 #### Labels: marketing-materials Epic 
 ---
 Linked Issues: `0` with a total of `0` pts.
-<details><summary>View all 0 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 </table>
 </p>
-</details>
 
 
 ### `Epic` - Contentful Data Integration - +`5 pts.` - :x:open - [zenhub-product/#21](https://github.com/OnboardRS/zenhub-product/issues/21)
@@ -49,7 +45,6 @@ Linked Issues: `0` with a total of `0` pts.
 #### Labels: marketing-materials Epic 
 ---
 Linked Issues: `4` with a total of `5` pts.
-<details><summary>View all 4 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -59,7 +54,6 @@ Linked Issues: `4` with a total of `5` pts.
 <tr><td>+1</td><td>Issue</td><td>MM Service - Contentful Fields for LR Retrofit</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/10">zenhub-marketing-materials/#10</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 ### `Epic` - Legacy Landing Page Update - +`0 pts.` - :x:open - [zenhub-marketing-materials/#3](https://github.com/OnboardRS/zenhub-marketing-materials/issues/3)
@@ -68,13 +62,11 @@ Linked Issues: `4` with a total of `5` pts.
 #### Labels: 
 ---
 Linked Issues: `0` with a total of `0` pts.
-<details><summary>View all 0 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 </table>
 </p>
-</details>
 
 
 

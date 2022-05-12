@@ -9,7 +9,6 @@ _Release Date: 2022-04-27_
 #### Labels: 
 ---
 Linked Issues: `14` with a total of `35` pts.
-<details><summary>View all 14 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -29,7 +28,6 @@ Linked Issues: `14` with a total of `35` pts.
 <tr><td>+5</td><td>Issue</td><td>Get MySQL Rotation Lambda Payload</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/13">pulumi-aws-dms-mysql/#13</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 
