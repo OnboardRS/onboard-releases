@@ -2,7 +2,7 @@
 _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
-# Epics || 42 pts.
+# Epics || 45 pts.
 ### `Epic` - Automate RDS Snapshot Sharing Between Accounts - +`5 pts.` - :heavy_check_mark:closed - [zenhub-product/#25](https://github.com/OnboardRS/zenhub-product/issues/25)
  > Applies to the `AWS-Prod` account for RDS instances `onboardrs-prod-mysql` and `onboardrs-prod-sqlserver`
 
@@ -22,7 +22,7 @@ Linked Issues: `1` with a total of `5` pts.
 </p>
 
 
-### `Epic` - pulumi-aws-s3 - +`0 pts.` - :heavy_check_mark:closed - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
+### `Epic` - pulumi-aws-s3 - +`3 pts.` - :heavy_check_mark:closed - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
  > We need a top level pulumi project for S3 buckets that are needed by services, but ARE NOT hosting UI.
 These are purely data buckets in a central location to manage them.
 
@@ -40,10 +40,11 @@ When in doubt use `onboardrs` in bucket names for uniqueness
 
 #### Labels: Epic ops 
 ---
-Linked Issues: `0` with a total of `0` pts.
+Linked Issues: `1` with a total of `3` pts.
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+3</td><td>Issue</td><td>pulumi-aws-s3</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/23">zenhub-ops/#23</a></td> </tr>
 </table>
 </p>
 
@@ -108,8 +109,3 @@ Linked Issues: `2` with a total of `4` pts.
 
 
 
-## Issues without Epics: || 3 pts.
-<table>
-<tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+3</td><td>Issue</td><td>pulumi-aws-s3</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/23">zenhub-ops/#23</a></td> </tr>
-</table>
