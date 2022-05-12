@@ -1,8 +1,8 @@
-# Release MM-1.0.0 || TotalPoints: 44 || Status: In Progress
+# Release MM-1.0.0 || TotalPoints: 42 || Status: In Progress
 _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
-# Epics || 44 pts.
+# Epics || 42 pts.
 ### `Epic` - pulumi-aws-s3 - +`0 pts.` - :x:open - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
  > We need a top level pulumi project for S3 buckets that are needed by services, but ARE NOT hosting UI.
 These are purely data buckets in a central location to manage them.
@@ -95,7 +95,7 @@ Linked Issues: `5` with a total of `14` pts.
 </details>
 
 
-### `Epic` - AWS UI Service Infrastructure - +`6 pts.` - :heavy_check_mark:closed - [zenhub-ops/#8](https://github.com/OnboardRS/zenhub-ops/issues/8)
+### `Epic` - AWS UI Service Infrastructure - +`4 pts.` - :heavy_check_mark:closed - [zenhub-ops/#8](https://github.com/OnboardRS/zenhub-ops/issues/8)
  > This is for the UI architecture that results in:
 
 - S3 Hosted static frontend
@@ -106,13 +106,12 @@ This will be it's own pulumi project with accompanying todos
 
 #### Labels: Epic ops 
 ---
-Linked Issues: `3` with a total of `6` pts.
-<details><summary>View all 3 issue(s)</summary>
+Linked Issues: `2` with a total of `4` pts.
+<details><summary>View all 2 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+2</td><td>Issue</td><td>Create S3 bucket for marketing-materials.{env}-onboardrs.com</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-static-ui-services/issues/1">pulumi-aws-static-ui-services/#1</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>Create a cloudfront distribution for the above S3 bucket</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-static-ui-services/issues/2">pulumi-aws-static-ui-services/#2</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>Create Route53 record for marketing-materials.{env}-onboardrs.com</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-static-ui-services/issues/3">pulumi-aws-static-ui-services/#3</a></td> </tr>
 </table>
 </p>
