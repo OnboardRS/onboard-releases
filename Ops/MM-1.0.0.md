@@ -68,8 +68,8 @@ Linked Issues: `8` with a total of `19` pts.
 <tr><td>+2</td><td>Issue</td><td>RDS Security Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/4">pulumi-aws-mysql/#4</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>RDS Parameter Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/5">pulumi-aws-mysql/#5</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>RDS MYSQL</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/6">pulumi-aws-mysql/#6</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>AWS Secrets Manager</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/7">pulumi-aws-mysql/#7</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>AWS Secret Rotation</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/8">pulumi-aws-mysql/#8</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>AWS Secrets Manager</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/7">pulumi-aws-mysql/#7</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>AWS Secret Rotation</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/8">pulumi-aws-mysql/#8</a></td> </tr>
 </table>
 </p>
 </details>
