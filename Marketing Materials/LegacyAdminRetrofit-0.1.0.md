@@ -137,7 +137,7 @@ Linked Issues: `0` with a total of `0` pts.
 ## Issues without Epics: || 14 pts.
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+2</td><td>Issue</td><td>Docker and Build</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/6">zenhub-marketing-materials/#6</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>Docker and Build</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/6">zenhub-marketing-materials/#6</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>LR - Content Preview</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/11">zenhub-marketing-materials/#11</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>Legacy Resident FAQ Hotfixes</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/12">zenhub-marketing-materials/#12</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>LR - Content Preview MM Service</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/13">zenhub-marketing-materials/#13</a></td> </tr>
