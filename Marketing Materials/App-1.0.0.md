@@ -11,7 +11,6 @@ This app also uses Contentful to give the Onboard Property Marketing team more g
 #### Labels: 
 ---
 Linked Issues: `2` with a total of `2` pts.
-<details><summary>View all 2 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -19,11 +18,6 @@ Linked Issues: `2` with a total of `2` pts.
 <tr><td>+2</td><td>Issue</td><td>Docker and Build</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/6">zenhub-marketing-materials/#6</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 
-## Issues || 0 pts.
-<table>
-<tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-</table>

@@ -1,4 +1,4 @@
-# Release MM-1.0.0 || TotalPoints: 45 || Status: In Progress
+# Release MM-1.0.0 || TotalPoints: 45 || Status: Released
 _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
@@ -14,14 +14,12 @@ _Release Date: 2022-05-12_
 #### Labels: Epic ops 
 ---
 Linked Issues: `1` with a total of `5` pts.
-<details><summary>View all 1 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 ### `Epic` - pulumi-aws-s3 - +`3 pts.` - :heavy_check_mark:closed - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
@@ -43,14 +41,12 @@ When in doubt use `onboardrs` in bucket names for uniqueness
 #### Labels: Epic ops 
 ---
 Linked Issues: `1` with a total of `3` pts.
-<details><summary>View all 1 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+3</td><td>Issue</td><td>pulumi-aws-s3</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/23">zenhub-ops/#23</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 ### `Epic` - pulumi-aws-mysql - +`19 pts.` - :heavy_check_mark:closed - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
@@ -59,7 +55,6 @@ Linked Issues: `1` with a total of `3` pts.
 #### Labels: Epic ops 
 ---
 Linked Issues: `8` with a total of `19` pts.
-<details><summary>View all 8 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -73,7 +68,6 @@ Linked Issues: `8` with a total of `19` pts.
 <tr><td>+2</td><td>Issue</td><td>AWS Secret Rotation</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/8">pulumi-aws-mysql/#8</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 ### `Epic` - K8s CI/CD - +`14 pts.` - :heavy_check_mark:closed - [zenhub-ops/#17](https://github.com/OnboardRS/zenhub-ops/issues/17)
@@ -82,7 +76,6 @@ Linked Issues: `8` with a total of `19` pts.
 #### Labels: Epic ops 
 ---
 Linked Issues: `5` with a total of `14` pts.
-<details><summary>View all 5 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -93,7 +86,6 @@ Linked Issues: `5` with a total of `14` pts.
 <tr><td>+3</td><td>Issue</td><td>GitHub Action CD Stage/Prod</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/14">zenhub-ops/#14</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 ### `Epic` - AWS UI Service Infrastructure - +`4 pts.` - :heavy_check_mark:closed - [zenhub-ops/#8](https://github.com/OnboardRS/zenhub-ops/issues/8)
@@ -107,7 +99,6 @@ This will be it's own pulumi project with accompanying todos
 #### Labels: Epic ops 
 ---
 Linked Issues: `2` with a total of `4` pts.
-<details><summary>View all 2 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -115,11 +106,6 @@ Linked Issues: `2` with a total of `4` pts.
 <tr><td>+2</td><td>Issue</td><td>Create Route53 record for marketing-materials.{env}-onboardrs.com</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-static-ui-services/issues/3">pulumi-aws-static-ui-services/#3</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 
-## Issues || 0 pts.
-<table>
-<tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-</table>

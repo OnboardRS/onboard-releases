@@ -1,11 +1,11 @@
-# Release Legacy Admin Retrofit-0.1.0 || TotalPoints: 34 || Status: In Progress
+# Release Legacy Admin Retrofit-0.1.0 || TotalPoints: 46 || Status: In Progress
 _Release Date: 2022-05-26_
  > This release represents the retrofit of the PHP Legacy Admin Site, to include Contentful.
 The reason behind this release is to help make the current platform more adaptive to the sales demand.
 The major design goal behind this release was to use Contentful to drive all the copy that is currently a mix of templates / hardcoded strings today. This allows us to meet the demands of the business sooner, and not throw away the effort when we build the new Onboard Platform.
 We estimate 75% or more of the work done in this release, will be carried forward into the new platform
 ---
-# Epics || 14 pts.
+# Epics || 32 pts.
 ### `Epic` - Leg-Res Dashboard  - +`9 pts.` - :x:open - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/c0176774-2c9e-4d6d-8cbb-3171a872f516)
 
@@ -16,7 +16,6 @@ https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7
 #### Labels: marketing-materials Epic 
 ---
 Linked Issues: `3` with a total of `9` pts.
-<details><summary>View all 3 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -25,7 +24,31 @@ Linked Issues: `3` with a total of `9` pts.
 <tr><td>+1</td><td>Issue</td><td>LR-Resident Dashboard Content Model</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/8">zenhub-dev/#8</a></td> </tr>
 </table>
 </p>
-</details>
+
+
+### `Epic` - Leg-Res-Landing Page - +`9 pts.` - :x:open - [zenhub-product/#16](https://github.com/OnboardRS/zenhub-product/issues/16)
+ > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/028b9e61-4880-4514-9c61-8ba923bb44f4)
+
+![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/65069dcf-9e65-42e8-b5a0-93ee2f95a514)
+
+Team link (For inspect): https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
+
+Public Link: 
+https://jasonknott519742.invisionapp.com/console/share/WQDHFGBMAJT/911923526
+
+Contentful integration which will allow Ryan and team to dynamically edit resident landing page content.
+
+#### Labels: marketing-materials Epic 
+---
+Linked Issues: `3` with a total of `9` pts.
+<p>
+<table>
+<tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+1</td><td>Issue</td><td>LR-Landing Content Model</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/2">zenhub-dev/#2</a></td> </tr>
+<tr><td>+3</td><td>Issue</td><td>LR-Landing Render Content</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/3">zenhub-dev/#3</a></td> </tr>
+<tr><td>+5</td><td>Issue</td><td>React Contentful Component</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/10">zenhub-dev/#10</a></td> </tr>
+</table>
+</p>
 
 
 ### `Epic` - Leg-res-accept terms page - +`0 pts.` - :heavy_check_mark:closed - [zenhub-product/#17](https://github.com/OnboardRS/zenhub-product/issues/17)
@@ -34,13 +57,50 @@ Linked Issues: `3` with a total of `9` pts.
 #### Labels: marketing-materials Epic 
 ---
 Linked Issues: `0` with a total of `0` pts.
-<details><summary>View all 0 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 </table>
 </p>
-</details>
+
+
+### `Epic` - Leg-res-Resident Match - +`2 pts.` - :x:open - [zenhub-product/#18](https://github.com/OnboardRS/zenhub-product/issues/18)
+ > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/d44570d1-0107-438d-9fa1-ec7766b960a2)
+
+(Not found):
+![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/7c4c3ae7-ff76-48a5-bf34-f97b16b3947b)
+
+Invision:
+https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
+
+#### Labels: marketing-materials Epic 
+---
+Linked Issues: `2` with a total of `2` pts.
+<p>
+<table>
+<tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+1</td><td>Issue</td><td>LR-Resident Match Render Content</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/6">zenhub-dev/#6</a></td> </tr>
+<tr><td>+1</td><td>Issue</td><td>LR-Resident Match Contentful Model</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/9">zenhub-dev/#9</a></td> </tr>
+</table>
+</p>
+
+
+### `Epic` - Leg-Res - Addendum - +`7 pts.` - :x:open - [zenhub-product/#19](https://github.com/OnboardRS/zenhub-product/issues/19)
+ > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/49900870-0ec4-48d3-9bc4-8079e8aa53f5)
+
+
+https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
+
+#### Labels: marketing-materials Epic 
+---
+Linked Issues: `2` with a total of `7` pts.
+<p>
+<table>
+<tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+2</td><td>Issue</td><td>LR-Addendum Content Models</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/12">zenhub-dev/#12</a></td> </tr>
+<tr><td>+5</td><td>Issue</td><td>LR-Addendum PDF Render</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/13">zenhub-dev/#13</a></td> </tr>
+</table>
+</p>
 
 
 ### `Epic` - Contentful Data Integration - +`5 pts.` - :x:open - [zenhub-product/#21](https://github.com/OnboardRS/zenhub-product/issues/21)
@@ -49,7 +109,6 @@ Linked Issues: `0` with a total of `0` pts.
 #### Labels: marketing-materials Epic 
 ---
 Linked Issues: `4` with a total of `5` pts.
-<details><summary>View all 4 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -59,7 +118,6 @@ Linked Issues: `4` with a total of `5` pts.
 <tr><td>+1</td><td>Issue</td><td>MM Service - Contentful Fields for LR Retrofit</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/10">zenhub-marketing-materials/#10</a></td> </tr>
 </table>
 </p>
-</details>
 
 
 ### `Epic` - Legacy Landing Page Update - +`0 pts.` - :x:open - [zenhub-marketing-materials/#3](https://github.com/OnboardRS/zenhub-marketing-materials/issues/3)
@@ -68,28 +126,23 @@ Linked Issues: `4` with a total of `5` pts.
 #### Labels: 
 ---
 Linked Issues: `0` with a total of `0` pts.
-<details><summary>View all 0 issue(s)</summary>
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 </table>
 </p>
-</details>
 
 
 
-## Issues || 20 pts.
+## Issues without Epics: || 14 pts.
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+1</td><td>Issue</td><td>LR-Landing Content Model</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/2">zenhub-dev/#2</a></td> </tr>
-<tr><td>+3</td><td>Issue</td><td>LR-Landing Render Content</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/3">zenhub-dev/#3</a></td> </tr>
-<tr><td>+1</td><td>Issue</td><td>LR-Resident Match Render Content</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/6">zenhub-dev/#6</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>Docker and Build</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/6">zenhub-marketing-materials/#6</a></td> </tr>
-<tr><td>+1</td><td>Issue</td><td>LR-Resident Match Contentful Model</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/9">zenhub-dev/#9</a></td> </tr>
-<tr><td>+5</td><td>Issue</td><td>React Contentful Component</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/10">zenhub-dev/#10</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>LR - Content Preview</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/11">zenhub-marketing-materials/#11</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>Legacy Resident FAQ Hotfixes</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/12">zenhub-marketing-materials/#12</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>LR - Content Preview MM Service</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/13">zenhub-marketing-materials/#13</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>Onboard Admin Project Flags</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/14">zenhub-dev/#14</a></td> </tr>
 <tr><td>+1</td><td>Issue</td><td>LR - Content Preview MMAPI</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/14">zenhub-marketing-materials/#14</a></td> </tr>
 <tr><td>+2</td><td>Issue</td><td>Sync Contentful Properties with S3</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/15">zenhub-dev/#15</a></td> </tr>
+<tr><td>+3</td><td>Issue</td><td>Code Review MM C# Services</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/16">zenhub-dev/#16</a></td> </tr>
 </table>
