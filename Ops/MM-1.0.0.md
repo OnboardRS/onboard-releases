@@ -2,8 +2,8 @@
 _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
-# Epics -- Estimated: 45 / Actual 43 pts.
-### `Epic` - pulumi-aws-s3 - +Estimate: `3` / Actual: `3` pts. - :heavy_check_mark:closed - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
+# Epics -- Estimated: 45 / Actual: 43 pts.
+### `Epic` - pulumi-aws-s3 - `3`/`3` pts. - :heavy_check_mark:closed - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
  > We need a top level pulumi project for S3 buckets that are needed by services, but ARE NOT hosting UI.
 These are purely data buckets in a central location to manage them.
 
@@ -30,7 +30,7 @@ Linked Issues: `1`
 </p>
 
 
-### `Epic` - Automate RDS Snapshot Sharing Between Accounts - +Estimate: `5` / Actual: `5` pts. - :heavy_check_mark:closed - [zenhub-product/#25](https://github.com/OnboardRS/zenhub-product/issues/25)
+### `Epic` - Automate RDS Snapshot Sharing Between Accounts - `5`/`5` pts. - :heavy_check_mark:closed - [zenhub-product/#25](https://github.com/OnboardRS/zenhub-product/issues/25)
  > Applies to the `AWS-Prod` account for RDS instances `onboardrs-prod-mysql` and `onboardrs-prod-sqlserver`
 
 - [x] Convert System Snapshot to Manual Snapshot
@@ -49,7 +49,7 @@ Linked Issues: `1`
 </p>
 
 
-### `Epic` - pulumi-aws-mysql - +Estimate: `19` / Actual: `12` pts. - :heavy_check_mark:closed - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
+### `Epic` - pulumi-aws-mysql - `19`/`12` pts. - :heavy_check_mark:closed - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
  > MYSQL RDS in lower lanes that create off a shared snapshot from AWS-Prod
 
 #### Labels: Epic ops 
@@ -70,7 +70,7 @@ Linked Issues: `8`
 </p>
 
 
-### `Epic` - K8s CI/CD - +Estimate: `14` / Actual: `19` pts. - :heavy_check_mark:closed - [zenhub-ops/#17](https://github.com/OnboardRS/zenhub-ops/issues/17)
+### `Epic` - K8s CI/CD - `14`/`19` pts. - :heavy_check_mark:closed - [zenhub-ops/#17](https://github.com/OnboardRS/zenhub-ops/issues/17)
  > This is the generic CI/CD work that needs to take place, before we can onboard the marketing materials app into the eco system.
 
 #### Labels: Epic ops 
@@ -88,7 +88,7 @@ Linked Issues: `5`
 </p>
 
 
-### `Epic` - AWS UI Service Infrastructure - +Estimate: `4` / Actual: `4` pts. - :heavy_check_mark:closed - [zenhub-ops/#8](https://github.com/OnboardRS/zenhub-ops/issues/8)
+### `Epic` - AWS UI Service Infrastructure - `4`/`4` pts. - :heavy_check_mark:closed - [zenhub-ops/#8](https://github.com/OnboardRS/zenhub-ops/issues/8)
  > This is for the UI architecture that results in:
 
 - S3 Hosted static frontend

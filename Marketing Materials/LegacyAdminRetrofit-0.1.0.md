@@ -5,8 +5,8 @@ The reason behind this release is to help make the current platform more adaptiv
 The major design goal behind this release was to use Contentful to drive all the copy that is currently a mix of templates / hardcoded strings today. This allows us to meet the demands of the business sooner, and not throw away the effort when we build the new Onboard Platform.
 We estimate 75% or more of the work done in this release, will be carried forward into the new platform
 ---
-# Epics -- Estimated: 32 / Actual 32 pts.
-### `Epic` - Leg-Res Dashboard  - +Estimate: `9` / Actual: `9` pts. - :x:open - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
+# Epics -- Estimated: 32 / Actual: 32 pts.
+### `Epic` - Leg-Res Dashboard  - `9`/`9` pts. - :x:open - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/c0176774-2c9e-4d6d-8cbb-3171a872f516)
 
 Design update and contentful integration
@@ -26,7 +26,7 @@ Linked Issues: `3`
 </p>
 
 
-### `Epic` - Leg-Res-Landing Page - +Estimate: `9` / Actual: `9` pts. - :x:open - [zenhub-product/#16](https://github.com/OnboardRS/zenhub-product/issues/16)
+### `Epic` - Leg-Res-Landing Page - `9`/`9` pts. - :x:open - [zenhub-product/#16](https://github.com/OnboardRS/zenhub-product/issues/16)
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/028b9e61-4880-4514-9c61-8ba923bb44f4)
 
 ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/65069dcf-9e65-42e8-b5a0-93ee2f95a514)
@@ -51,7 +51,7 @@ Linked Issues: `3`
 </p>
 
 
-### `Epic` - Leg-res-accept terms page - +Estimate: `0` / Actual: `0` pts. - :heavy_check_mark:closed - [zenhub-product/#17](https://github.com/OnboardRS/zenhub-product/issues/17)
+### `Epic` - Leg-res-accept terms page - `0`/`0` pts. - :heavy_check_mark:closed - [zenhub-product/#17](https://github.com/OnboardRS/zenhub-product/issues/17)
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/e311b3f3-382d-465b-a27c-64f5bfb4c2c4)
 
 #### Labels: marketing-materials Epic 
@@ -64,7 +64,7 @@ Linked Issues: `0`
 </p>
 
 
-### `Epic` - Leg-res-Resident Match - +Estimate: `2` / Actual: `2` pts. - :x:open - [zenhub-product/#18](https://github.com/OnboardRS/zenhub-product/issues/18)
+### `Epic` - Leg-res-Resident Match - `2`/`2` pts. - :x:open - [zenhub-product/#18](https://github.com/OnboardRS/zenhub-product/issues/18)
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/d44570d1-0107-438d-9fa1-ec7766b960a2)
 
 (Not found):
@@ -85,7 +85,7 @@ Linked Issues: `2`
 </p>
 
 
-### `Epic` - Leg-Res - Addendum - +Estimate: `7` / Actual: `7` pts. - :x:open - [zenhub-product/#19](https://github.com/OnboardRS/zenhub-product/issues/19)
+### `Epic` - Leg-Res - Addendum - `7`/`7` pts. - :x:open - [zenhub-product/#19](https://github.com/OnboardRS/zenhub-product/issues/19)
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/49900870-0ec4-48d3-9bc4-8079e8aa53f5)
 
 
@@ -103,7 +103,7 @@ Linked Issues: `2`
 </p>
 
 
-### `Epic` - Contentful Data Integration - +Estimate: `5` / Actual: `5` pts. - :x:open - [zenhub-product/#21](https://github.com/OnboardRS/zenhub-product/issues/21)
+### `Epic` - Contentful Data Integration - `5`/`5` pts. - :x:open - [zenhub-product/#21](https://github.com/OnboardRS/zenhub-product/issues/21)
  > 
 
 #### Labels: marketing-materials Epic 
@@ -120,7 +120,7 @@ Linked Issues: `4`
 </p>
 
 
-### `Epic` - Legacy Landing Page Update - +Estimate: `0` / Actual: `0` pts. - :x:open - [zenhub-marketing-materials/#3](https://github.com/OnboardRS/zenhub-marketing-materials/issues/3)
+### `Epic` - Legacy Landing Page Update - `0`/`0` pts. - :x:open - [zenhub-marketing-materials/#3](https://github.com/OnboardRS/zenhub-marketing-materials/issues/3)
  > 
 
 #### Labels: 

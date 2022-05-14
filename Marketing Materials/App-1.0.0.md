@@ -8,8 +8,8 @@ This app also uses Contentful to give the Onboard Property Marketing team more g
 The majority of the actual work that @nickzarate did, was done before we got the SDLC process started.
 
 ---
-# Epics -- Estimated: 2 / Actual 2 pts.
-### `Epic` - Marketing Flyers Deployment - +Estimate: `2` / Actual: `2` pts. - :heavy_check_mark:closed - [zenhub-marketing-materials/#1](https://github.com/OnboardRS/zenhub-marketing-materials/issues/1)
+# Epics -- Estimated: 2 / Actual: 2 pts.
+### `Epic` - Marketing Flyers Deployment - `2`/`2` pts. - :heavy_check_mark:closed - [zenhub-marketing-materials/#1](https://github.com/OnboardRS/zenhub-marketing-materials/issues/1)
  > 
 
 #### Labels: 
