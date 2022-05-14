@@ -1,9 +1,9 @@
-# Release DMS-1.0.0 || TotalPoints: 43 || Status: Released
+# Release DMS-1.0.0 | Estimated: 43 / Actual: 43 pts. | Status: Released
 _Release Date: 2022-04-27_
  > This release is the first pass at the DMS and RDS configuration to replicate the MYSQL onboard-production DB in DigitalOcean to our AWS Prod account in the RDS Instance: `onboardrs-prod-mysql`
 ---
-# Epics | Estimated: 35 | Actual 35 pts.
-### `Epic` - AWS DMS - +`Estimate: 35 | Actual: 35 pts.` - :heavy_check_mark:closed - [zenhub-ops/#2](https://github.com/OnboardRS/zenhub-ops/issues/2)
+# Epics -- Estimated: 35 | Actual 35 pts.
+### `Epic` - AWS DMS - +Estimate: `35` | Actual: `35` pts. - :heavy_check_mark:closed - [zenhub-ops/#2](https://github.com/OnboardRS/zenhub-ops/issues/2)
  > Productionize the Digital Ocean to AWS RDS Lab, into something long term and useful
 
 #### Labels: 
@@ -11,7 +11,7 @@ _Release Date: 2022-04-27_
 Linked Issues: `14`
 <p>
 <table>
-<tr><th>Est</th>Act<th></th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+3</td><td>3</td><td>Issue</td><td>DMS Replication Instance</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/1">pulumi-aws-dms-mysql/#1</a></td> </tr>
 <tr><td>+3</td><td>3</td><td>Issue</td><td>Fix Pulumi Publish action to include Secrets Provider</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/1">zenhub-ops/#1</a></td> </tr>
 <tr><td>+1</td><td>1</td><td>Issue</td><td>DMS Subnet Group</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-dms-mysql/issues/2">pulumi-aws-dms-mysql/#2</a></td> </tr>
@@ -33,6 +33,6 @@ Linked Issues: `14`
 
 ## Issues without Epics: || 8 pts.
 <table>
-<tr><th>Est</th>Act<th></th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+8</td><td>8</td><td>Issue</td><td>ReleaseHub</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/3">zenhub-ops/#3</a></td> </tr>
 </table>
