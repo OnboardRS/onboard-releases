@@ -3,25 +3,6 @@ _Release Date: 2022-05-12_
  > This is the operational infrastructure to build CI/CD to support the Marketing Materials Project
 ---
 # Epics || 45 pts.
-### `Epic` - Automate RDS Snapshot Sharing Between Accounts - +`5 pts.` - :heavy_check_mark:closed - [zenhub-product/#25](https://github.com/OnboardRS/zenhub-product/issues/25)
- > Applies to the `AWS-Prod` account for RDS instances `onboardrs-prod-mysql` and `onboardrs-prod-sqlserver`
-
-- [x] Convert System Snapshot to Manual Snapshot
-- [x] Share snapshot with other accounts
-- [x] Automate this stuff, so we don't have to think about it again
-
-
-#### Labels: Epic ops 
----
-Linked Issues: `1` with a total of `5` pts.
-<p>
-<table>
-<tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
-</table>
-</p>
-
-
 ### `Epic` - pulumi-aws-s3 - +`3 pts.` - :heavy_check_mark:closed - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
  > We need a top level pulumi project for S3 buckets that are needed by services, but ARE NOT hosting UI.
 These are purely data buckets in a central location to manage them.
@@ -49,6 +30,25 @@ Linked Issues: `1` with a total of `3` pts.
 </p>
 
 
+### `Epic` - Automate RDS Snapshot Sharing Between Accounts - +`5 pts.` - :heavy_check_mark:closed - [zenhub-product/#25](https://github.com/OnboardRS/zenhub-product/issues/25)
+ > Applies to the `AWS-Prod` account for RDS instances `onboardrs-prod-mysql` and `onboardrs-prod-sqlserver`
+
+- [x] Convert System Snapshot to Manual Snapshot
+- [x] Share snapshot with other accounts
+- [x] Automate this stuff, so we don't have to think about it again
+
+
+#### Labels: Epic ops 
+---
+Linked Issues: `1` with a total of `5` pts.
+<p>
+<table>
+<tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
+</table>
+</p>
+
+
 ### `Epic` - pulumi-aws-mysql - +`19 pts.` - :heavy_check_mark:closed - [zenhub-product/#22](https://github.com/OnboardRS/zenhub-product/issues/22)
  > MYSQL RDS in lower lanes that create off a shared snapshot from AWS-Prod
 
@@ -58,14 +58,14 @@ Linked Issues: `8` with a total of `19` pts.
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>Pulumi ENV and Configs for Dev/Stage</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/2">pulumi-aws-mysql/#2</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>RDS Subnet Group</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/3">pulumi-aws-mysql/#3</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>RDS Security Group</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/4">pulumi-aws-mysql/#4</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>RDS Parameter Group</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/5">pulumi-aws-mysql/#5</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>RDS MYSQL</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/6">pulumi-aws-mysql/#6</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>AWS Secrets Manager</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/7">pulumi-aws-mysql/#7</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>AWS Secret Rotation</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/8">pulumi-aws-mysql/#8</a></td> </tr>
+<tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>Pulumi ENV and Configs for Dev/Stage</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/2">pulumi-aws-mysql/#2</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>RDS Subnet Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/3">pulumi-aws-mysql/#3</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>RDS Security Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/4">pulumi-aws-mysql/#4</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>RDS Parameter Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/5">pulumi-aws-mysql/#5</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>RDS MYSQL</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/6">pulumi-aws-mysql/#6</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>AWS Secrets Manager</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/7">pulumi-aws-mysql/#7</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>AWS Secret Rotation</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/8">pulumi-aws-mysql/#8</a></td> </tr>
 </table>
 </p>
 
