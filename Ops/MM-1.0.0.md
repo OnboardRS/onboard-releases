@@ -25,7 +25,7 @@ Linked Issues: `1` with a total of `3` pts.
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+3</td><td>Issue</td><td>pulumi-aws-s3</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/23">zenhub-ops/#23</a></td> </tr>
+<tr><td>+3</td><td>Issue</td><td>pulumi-aws-s3</td><td>ops actual: 3 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/23">zenhub-ops/#23</a></td> </tr>
 </table>
 </p>
 
@@ -44,7 +44,7 @@ Linked Issues: `1` with a total of `5` pts.
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
+<tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td>ops actual: 5 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
 </table>
 </p>
 
@@ -58,14 +58,14 @@ Linked Issues: `8` with a total of `19` pts.
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>Pulumi ENV and Configs for Dev/Stage</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/2">pulumi-aws-mysql/#2</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>RDS Subnet Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/3">pulumi-aws-mysql/#3</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>RDS Security Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/4">pulumi-aws-mysql/#4</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>RDS Parameter Group</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/5">pulumi-aws-mysql/#5</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>RDS MYSQL</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/6">pulumi-aws-mysql/#6</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>AWS Secrets Manager</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/7">pulumi-aws-mysql/#7</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>AWS Secret Rotation</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/8">pulumi-aws-mysql/#8</a></td> </tr>
+<tr><td>+5</td><td>Issue</td><td>Setup Prod MYSQL snapshot sharing to Dev & Staging</td><td>ops actual: 5 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/1">pulumi-aws-mysql/#1</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>Pulumi ENV and Configs for Dev/Stage</td><td>ops actual: 1 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/2">pulumi-aws-mysql/#2</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>RDS Subnet Group</td><td>ops actual: 1 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/3">pulumi-aws-mysql/#3</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>RDS Security Group</td><td>ops actual: 1 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/4">pulumi-aws-mysql/#4</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>RDS Parameter Group</td><td>ops actual: 1 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/5">pulumi-aws-mysql/#5</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>RDS MYSQL</td><td>ops actual: 1 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/6">pulumi-aws-mysql/#6</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>AWS Secrets Manager</td><td>ops actual: 1 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/7">pulumi-aws-mysql/#7</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>AWS Secret Rotation</td><td>ops actual: 1 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/8">pulumi-aws-mysql/#8</a></td> </tr>
 </table>
 </p>
 
@@ -80,10 +80,10 @@ Linked Issues: `5` with a total of `14` pts.
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+1</td><td>Issue</td><td>Remove Keptn</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/10">zenhub-ops/#10</a></td> </tr>
-<tr><td>+3</td><td>Issue</td><td>GitHub Action CI and Dev CD</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/11">zenhub-ops/#11</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>Discovery - Helm chart persistence</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/12">zenhub-ops/#12</a></td> </tr>
-<tr><td>+5</td><td>Issue</td><td>GitHub Action Helm</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/13">zenhub-ops/#13</a></td> </tr>
-<tr><td>+3</td><td>Issue</td><td>GitHub Action CD Stage/Prod</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/14">zenhub-ops/#14</a></td> </tr>
+<tr><td>+3</td><td>Issue</td><td>GitHub Action CI and Dev CD</td><td>ops actual: 5 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/11">zenhub-ops/#11</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>Discovery - Helm chart persistence</td><td>ops actual: 3 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/12">zenhub-ops/#12</a></td> </tr>
+<tr><td>+5</td><td>Issue</td><td>GitHub Action Helm</td><td>ops actual: 5 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/13">zenhub-ops/#13</a></td> </tr>
+<tr><td>+3</td><td>Issue</td><td>GitHub Action CD Stage/Prod</td><td>ops actual: 5 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/14">zenhub-ops/#14</a></td> </tr>
 </table>
 </p>
 
@@ -102,8 +102,8 @@ Linked Issues: `2` with a total of `4` pts.
 <p>
 <table>
 <tr><th>Pts</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+2</td><td>Issue</td><td>Create S3 bucket for marketing-materials.{env}-onboardrs.com</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-static-ui-services/issues/1">pulumi-aws-static-ui-services/#1</a></td> </tr>
-<tr><td>+2</td><td>Issue</td><td>Create Route53 record for marketing-materials.{env}-onboardrs.com</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-static-ui-services/issues/3">pulumi-aws-static-ui-services/#3</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>Create S3 bucket for marketing-materials.{env}-onboardrs.com</td><td>ops actual: 2 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-static-ui-services/issues/1">pulumi-aws-static-ui-services/#1</a></td> </tr>
+<tr><td>+2</td><td>Issue</td><td>Create Route53 record for marketing-materials.{env}-onboardrs.com</td><td>ops actual: 2 </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-static-ui-services/issues/3">pulumi-aws-static-ui-services/#3</a></td> </tr>
 </table>
 </p>
 
