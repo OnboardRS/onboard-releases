@@ -1,4 +1,4 @@
-# Release DMS-1.0.0 | Estimated: 43 / Actual: 43 pts. | Status: Released
+# Release DMS-1.0.0 | `43` / `43` pts. | Status: Released
 _Release Date: 2022-04-27_
  > This release is the first pass at the DMS and RDS configuration to replicate the MYSQL onboard-production DB in DigitalOcean to our AWS Prod account in the RDS Instance: `onboardrs-prod-mysql`
 ---

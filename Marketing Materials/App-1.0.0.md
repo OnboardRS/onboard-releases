@@ -1,4 +1,4 @@
-# Release App-1.0.0 | Estimated: 2 / Actual: 2 pts. | Status: Released
+# Release App-1.0.0 | `2` / `2` pts. | Status: Released
 _Release Date: 2022-05-12_
  > This is the initial release of the Marketing Materials application.
 This app was built to help automate the generation of property marketing flyers.
