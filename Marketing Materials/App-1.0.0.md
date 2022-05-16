@@ -12,7 +12,7 @@ _Release Date: 2022-05-12_
 ---
 # Epics -- Estimated: 2 / Actual: 2 pts.
 ### `Epic` - Marketing Flyers Deployment - `2`/`2` pts. - :heavy_check_mark:closed - [zenhub-marketing-materials/#1](https://github.com/OnboardRS/zenhub-marketing-materials/issues/1)
- > 
+
 
 #### Labels: 
 ---

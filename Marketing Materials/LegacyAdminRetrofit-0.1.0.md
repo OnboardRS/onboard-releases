@@ -9,11 +9,13 @@ _Release Date: 2022-05-26_
 ---
 # Epics -- Estimated: 32 / Actual: 32 pts.
 ### `Epic` - Leg-Res Dashboard  - `9`/`9` pts. - :x:open - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
+
+
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/c0176774-2c9e-4d6d-8cbb-3171a872f516)
-
-Design update and contentful integration
-
-https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
+ >
+ >Design update and contentful integration
+ >
+ >https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
 
 #### Labels: marketing-materials Epic 
 ---
@@ -29,16 +31,18 @@ Linked Issues: `3`
 
 
 ### `Epic` - Leg-Res-Landing Page - `9`/`9` pts. - :x:open - [zenhub-product/#16](https://github.com/OnboardRS/zenhub-product/issues/16)
+
+
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/028b9e61-4880-4514-9c61-8ba923bb44f4)
-
-![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/65069dcf-9e65-42e8-b5a0-93ee2f95a514)
-
-Team link (For inspect): https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
-
-Public Link: 
-https://jasonknott519742.invisionapp.com/console/share/WQDHFGBMAJT/911923526
-
-Contentful integration which will allow Ryan and team to dynamically edit resident landing page content.
+ >
+ >![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/65069dcf-9e65-42e8-b5a0-93ee2f95a514)
+ >
+ >Team link (For inspect): https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
+ >
+ >Public Link: 
+ >https://jasonknott519742.invisionapp.com/console/share/WQDHFGBMAJT/911923526
+ >
+ >Contentful integration which will allow Ryan and team to dynamically edit resident landing page content.
 
 #### Labels: marketing-materials Epic 
 ---
@@ -54,6 +58,8 @@ Linked Issues: `3`
 
 
 ### `Epic` - Leg-res-accept terms page - `0`/`0` pts. - :heavy_check_mark:closed - [zenhub-product/#17](https://github.com/OnboardRS/zenhub-product/issues/17)
+
+
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/e311b3f3-382d-465b-a27c-64f5bfb4c2c4)
 
 #### Labels: marketing-materials Epic 
@@ -67,13 +73,15 @@ Linked Issues: `0`
 
 
 ### `Epic` - Leg-res-Resident Match - `2`/`2` pts. - :x:open - [zenhub-product/#18](https://github.com/OnboardRS/zenhub-product/issues/18)
+
+
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/d44570d1-0107-438d-9fa1-ec7766b960a2)
-
-(Not found):
-![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/7c4c3ae7-ff76-48a5-bf34-f97b16b3947b)
-
-Invision:
-https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
+ >
+ >(Not found):
+ >![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/7c4c3ae7-ff76-48a5-bf34-f97b16b3947b)
+ >
+ >Invision:
+ >https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
 
 #### Labels: marketing-materials Epic 
 ---
@@ -88,10 +96,12 @@ Linked Issues: `2`
 
 
 ### `Epic` - Leg-Res - Addendum - `7`/`7` pts. - :x:open - [zenhub-product/#19](https://github.com/OnboardRS/zenhub-product/issues/19)
+
+
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/49900870-0ec4-48d3-9bc4-8079e8aa53f5)
-
-
-https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
+ >
+ >
+ >https://jasonknott519742.invisionapp.com/overview/Legacy---Resident-Portal-cl2j7lfjh0d9801awekvk1gdp/screens
 
 #### Labels: marketing-materials Epic 
 ---
@@ -106,7 +116,7 @@ Linked Issues: `2`
 
 
 ### `Epic` - Contentful Data Integration - `5`/`5` pts. - :x:open - [zenhub-product/#21](https://github.com/OnboardRS/zenhub-product/issues/21)
- > 
+
 
 #### Labels: marketing-materials Epic 
 ---
@@ -123,7 +133,7 @@ Linked Issues: `4`
 
 
 ### `Epic` - Legacy Landing Page Update - `0`/`0` pts. - :x:open - [zenhub-marketing-materials/#3](https://github.com/OnboardRS/zenhub-marketing-materials/issues/3)
- > 
+
 
 #### Labels: 
 ---
