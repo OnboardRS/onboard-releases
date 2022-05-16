@@ -1,9 +1,11 @@
 # Release Legacy Admin Retrofit-0.1.0 | `46` / `46` pts. | Status: In Progress
 _Release Date: 2022-05-26_
- <p> This release represents the retrofit of the PHP Legacy Admin Site, to include Contentful.
+
+
+ > This release represents the retrofit of the PHP Legacy Admin Site, to include Contentful.
 The reason behind this release is to help make the current platform more adaptive to the sales demand.
 The major design goal behind this release was to use Contentful to drive all the copy that is currently a mix of templates / hardcoded strings today. This allows us to meet the demands of the business sooner, and not throw away the effort when we build the new Onboard Platform.
-We estimate 75% or more of the work done in this release, will be carried forward into the new platform </p>
+We estimate 75% or more of the work done in this release, will be carried forward into the new platform
 ---
 # Epics -- Estimated: 32 / Actual: 32 pts.
 ### `Epic` - Leg-Res Dashboard  - `9`/`9` pts. - :x:open - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)

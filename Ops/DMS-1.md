@@ -1,6 +1,8 @@
 # Release DMS-1 | `43` / `43` pts. | Status: Released
 _Release Date: 2022-04-27_
- <p> This release is the first pass at the DMS and RDS configuration to replicate the MYSQL onboard-production DB in DigitalOcean to our AWS Prod account in the RDS Instance: `onboardrs-prod-mysql` </p>
+
+
+ > This release is the first pass at the DMS and RDS configuration to replicate the MYSQL onboard-production DB in DigitalOcean to our AWS Prod account in the RDS Instance: `onboardrs-prod-mysql`
 ---
 # Epics -- Estimated: 35 / Actual: 35 pts.
 ### `Epic` - AWS DMS - `35`/`35` pts. - :heavy_check_mark:closed - [zenhub-ops/#2](https://github.com/OnboardRS/zenhub-ops/issues/2)

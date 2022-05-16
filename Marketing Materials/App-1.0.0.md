@@ -1,12 +1,14 @@
 # Release App-1.0.0 | `2` / `2` pts. | Status: Released
 _Release Date: 2022-05-12_
- <p> This is the initial release of the Marketing Materials application.
+
+
+ > This is the initial release of the Marketing Materials application.
 This app was built to help automate the generation of property marketing flyers.
 This app also uses Contentful to give the Onboard Property Marketing team more granular control over the content.
 
 
 The majority of the actual work that @nickzarate did, was done before we got the SDLC process started.
- </p>
+
 ---
 # Epics -- Estimated: 2 / Actual: 2 pts.
 ### `Epic` - Marketing Flyers Deployment - `2`/`2` pts. - :heavy_check_mark:closed - [zenhub-marketing-materials/#1](https://github.com/OnboardRS/zenhub-marketing-materials/issues/1)
