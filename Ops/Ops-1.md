@@ -3,8 +3,8 @@ _Release Date: 2022-05-12_
 
 
  > This is the operational infrastructure to build CI/CD to support deploying new applications into AWS.
-
-This represents the culmination of basically the last 3 months of working coming together. This release is 100% in AWS running our our new network and k8s cluster. We released all of this using our new CI/CD process built upon GitHub Actions along with Helm Charts etc... (more nerd words)
+ >
+ >This represents the culmination of basically the last 3 months of working coming together. This release is 100% in AWS running our our new network and k8s cluster. We released all of this using our new CI/CD process built upon GitHub Actions along with Helm Charts etc... (more nerd words)
 ---
 # Epics -- Estimated: 45 / Actual: 43 pts.
 ### `Epic` - pulumi-aws-s3 - `3`/`3` pts. - :heavy_check_mark:closed - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
