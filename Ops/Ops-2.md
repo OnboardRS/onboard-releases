@@ -7,7 +7,6 @@ _Release Date: 2022-05-26_
  >Key Milestones:
  >
  >- Internal cluster routing
- >- Mutual TLS between services
  >- Private DNS resolution for internal only service
  >- VPN private DNS resolution
  >- Consistent CI/CD process for static hosted frontends
