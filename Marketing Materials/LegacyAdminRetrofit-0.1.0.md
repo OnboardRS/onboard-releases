@@ -87,14 +87,6 @@ Linked Issues: `3`
 
 #### Labels: marketing-materials Epic 
 ---
-Linked Issues: `0`
-<p>
-<table>
-<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-</table>
-</p>
-
-
 ### `Epic` - Leg-res-Resident Match - `2`/`2` pts. - :heavy_check_mark:closed - [zenhub-product/#18](https://github.com/OnboardRS/zenhub-product/issues/18)
 
 
@@ -160,14 +152,6 @@ Linked Issues: `4`
 
 #### Labels: 
 ---
-Linked Issues: `0`
-<p>
-<table>
-<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-</table>
-</p>
-
-
 
 ## Issues without Epics: || 12 pts.
 <table>
