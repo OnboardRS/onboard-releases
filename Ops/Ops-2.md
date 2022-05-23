@@ -1,5 +1,5 @@
 # Release Ops-2 | `0` / `0` pts. | Status: In Progress
-_Release Date: 2022-05-27_
+_Release Date: 2022-05-26_
 
 
  > This release is the follow up infrastructure release to support the new AWS ecosystem.

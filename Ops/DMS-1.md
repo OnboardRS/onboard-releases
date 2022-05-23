@@ -38,5 +38,5 @@ Linked Issues: `14`
 ## Issues without Epics: || 8 pts.
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+8</td><td>8</td><td>Issue</td><td>ReleaseHub</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/3">zenhub-ops/#3</a></td> </tr>
+<tr><td>+8</td><td>+8</td><td>Issue</td><td>ReleaseHub</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/3">zenhub-ops/#3</a></td> </tr>
 </table>

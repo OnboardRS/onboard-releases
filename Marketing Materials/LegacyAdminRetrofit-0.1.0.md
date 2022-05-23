@@ -172,11 +172,11 @@ Linked Issues: `0`
 ## Issues without Epics: || 12 pts.
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+2</td><td>2</td><td>Issue</td><td>Docker and Build</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/6">zenhub-marketing-materials/#6</a></td> </tr>
-<tr><td>+2</td><td>3</td><td>Issue</td><td>LR - Content Preview</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/11">zenhub-marketing-materials/#11</a></td> </tr>
-<tr><td>+1</td><td>1</td><td>Issue</td><td>Legacy Resident FAQ Hotfixes</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/12">zenhub-marketing-materials/#12</a></td> </tr>
-<tr><td>+1</td><td>1</td><td>Issue</td><td>LR - Content Preview MM Service</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/13">zenhub-marketing-materials/#13</a></td> </tr>
-<tr><td>+2</td><td>2</td><td>Issue</td><td>Onboard Admin Project Flags</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/14">zenhub-dev/#14</a></td> </tr>
-<tr><td>+1</td><td>1</td><td>Issue</td><td>LR - Content Preview MMAPI</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/14">zenhub-marketing-materials/#14</a></td> </tr>
-<tr><td>+3</td><td>3</td><td>Issue</td><td>Code Review MM C# Services</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/16">zenhub-dev/#16</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Docker and Build</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/6">zenhub-marketing-materials/#6</a></td> </tr>
+<tr><td>+2</td><td>+3</td><td>Issue</td><td>LR - Content Preview</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/11">zenhub-marketing-materials/#11</a></td> </tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>Legacy Resident FAQ Hotfixes</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/12">zenhub-marketing-materials/#12</a></td> </tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>LR - Content Preview MM Service</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/13">zenhub-marketing-materials/#13</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Onboard Admin Project Flags</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/14">zenhub-dev/#14</a></td> </tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>LR - Content Preview MMAPI</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/14">zenhub-marketing-materials/#14</a></td> </tr>
+<tr><td>+3</td><td>+3</td><td>Issue</td><td>Code Review MM C# Services</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/16">zenhub-dev/#16</a></td> </tr>
 </table>
