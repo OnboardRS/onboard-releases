@@ -1,4 +1,4 @@
-# Release Ops-2 | `20` / `20` pts. | Status: In Progress
+# Release Ops-2 | `25` / `25` pts. | Status: In Progress
 _Release Date: 2022-05-26_
 
 
@@ -15,7 +15,7 @@ _Release Date: 2022-05-26_
  >- Staging Environment Stood Up (w/ Marketing Materials Release)
  >- Prod Environment Stood Up (w/ Marketing Materials Release)
 ---
-# Epics -- Estimated: 19 / Actual: 19 pts.
+# Epics -- Estimated: 24 / Actual: 24 pts.
 ### `Epic` - Make pulumi-aws-static-ui-services dynamic for future projects - `8`/`8` pts. - :heavy_check_mark:closed - [zenhub-product/#29](https://github.com/OnboardRS/zenhub-product/issues/29)
 
 
@@ -63,7 +63,7 @@ Linked Issues: `2`
 
 #### Labels: Epic ops 
 ---
-### `Epic` - Cognito - `0`/`0` pts. - :x:open - [zenhub-product/#34](https://github.com/OnboardRS/zenhub-product/issues/34)
+### `Epic` - Cognito - `5`/`5` pts. - :heavy_check_mark:closed - [zenhub-product/#34](https://github.com/OnboardRS/zenhub-product/issues/34)
 
 
  > We need to pulumi this out...
@@ -74,6 +74,18 @@ Linked Issues: `2`
 
 #### Labels: Epic ops 
 ---
+Linked Issues: `4`
+<p>
+<table>
+<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>Cognito Role</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-cognito/issues/1">pulumi-aws-cognito/#1</a></td> </tr>
+<tr><td>+3</td><td>+3</td><td>Issue</td><td>App Client</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-cognito/issues/2">pulumi-aws-cognito/#2</a></td> </tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>SecretsManager Secret</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-cognito/issues/3">pulumi-aws-cognito/#3</a></td> </tr>
+<tr><td>+0</td><td>+0</td><td>Issue</td><td>UserPool</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-cognito/issues/4">pulumi-aws-cognito/#4</a></td> </tr>
+</table>
+</p>
+
+
 ### `Epic` - onboardrs-todo-issues - `0`/`0` pts. - :x:open - [zenhub-ops/#24](https://github.com/OnboardRS/zenhub-ops/issues/24)
 
 

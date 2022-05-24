@@ -1,4 +1,4 @@
-# Release Legacy Admin Retrofit-0.1.0 | `65` / `71` pts. | Status: In Progress
+# Release Legacy Admin Retrofit-0.1.0 | `68` / `74` pts. | Status: In Progress
 _Release Date: 2022-05-26_
 
 
@@ -7,7 +7,7 @@ _Release Date: 2022-05-26_
  >The major design goal behind this release was to use Contentful to drive all the copy that is currently a mix of templates / hardcoded strings today. This allows us to meet the demands of the business sooner, and not throw away the effort when we build the new Onboard Platform.
  >We estimate 75% or more of the work done in this release, will be carried forward into the new platform
 ---
-# Epics -- Estimated: 53 / Actual: 58 pts.
+# Epics -- Estimated: 56 / Actual: 61 pts.
 ### `Epic` - Contentful Hydration - `18`/`18` pts. - :x:open - [zenhub-product/#36](https://github.com/OnboardRS/zenhub-product/issues/36)
 
 
@@ -30,7 +30,7 @@ Linked Issues: `4`
 </p>
 
 
-### `Epic` - Leg-Res Dashboard  - `12`/`12` pts. - :x:open - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
+### `Epic` - Leg-Res Dashboard  - `15`/`15` pts. - :x:open - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
 
 
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/c0176774-2c9e-4d6d-8cbb-3171a872f516)
@@ -41,7 +41,7 @@ Linked Issues: `4`
 
 #### Labels: marketing-materials Epic 
 ---
-Linked Issues: `4`
+Linked Issues: `5`
 <p>
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
@@ -49,6 +49,7 @@ Linked Issues: `4`
 <tr><td>+5</td><td>+5</td><td>Issue</td><td>LR-Resident Dashboard UI</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/7">zenhub-dev/#7</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>LR-Resident Dashboard Content Model</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/8">zenhub-dev/#8</a></td> </tr>
 <tr><td>+3</td><td>+3</td><td>Issue</td><td>Leg-Res Dashboard Getting Started Modal</td><td></td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/17">zenhub-marketing-materials/#17</a></td> </tr>
+<tr><td>+3</td><td>+3</td><td>Issue</td><td>Create alternate Getting Started Page/View for CMS content</td><td>resident-portal </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/19">zenhub-marketing-materials/#19</a></td> </tr>
 </table>
 </p>
 
