@@ -1,4 +1,4 @@
-# Release Legacy Admin Retrofit-0.1.0 | `70` / `76` pts. | Status: In Progress
+# Release Legacy Admin Retrofit-0.1.0 | `68` / `74` pts. | Status: In Progress
 _Release Date: 2022-05-26_
 
 
@@ -154,7 +154,7 @@ Linked Issues: `4`
 #### Labels: 
 ---
 
-## Issues without Epics: || 14 pts.
+## Issues without Epics: || 12 pts.
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+2</td><td>+2</td><td>Issue</td><td>Docker and Build</td><td></td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/6">zenhub-marketing-materials/#6</a></td> </tr>
@@ -164,5 +164,4 @@ Linked Issues: `4`
 <tr><td>+2</td><td>+2</td><td>Issue</td><td>Onboard Admin Project Flags</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/14">zenhub-dev/#14</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>LR - Content Preview MMAPI</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/14">zenhub-marketing-materials/#14</a></td> </tr>
 <tr><td>+3</td><td>+3</td><td>Issue</td><td>Code Review MM C# Services</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/16">zenhub-dev/#16</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>onboardrs.com DNS migration to Route53</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/25">zenhub-ops/#25</a></td> </tr>
 </table>
