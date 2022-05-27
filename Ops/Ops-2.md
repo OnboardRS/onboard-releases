@@ -1,4 +1,4 @@
-# Release Ops-2 | `47` : `48` pts. | Status: In Progress
+# Release Ops-2 | `47` : `48` pts. | Status: Released
 _Release Date: 2022-05-26_
 
 

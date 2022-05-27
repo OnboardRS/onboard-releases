@@ -1,4 +1,4 @@
-# Release Legacy Admin Retrofit-0.1.0 | `58` : `67` pts. | Status: In Progress
+# Release Legacy Admin Retrofit-0.1.0 | `58` : `67` pts. | Status: Released
 _Release Date: 2022-05-26_
 
 
@@ -8,7 +8,7 @@ _Release Date: 2022-05-26_
  >We estimate 75% or more of the work done in this release, will be carried forward into the new platform
 ---
 # Epics -- Estimated: 49  Actual: 57 pts.
-### `Epic` - Contentful Hydration - `18`:`18` pts. - :x:open - [zenhub-product/#36](https://github.com/OnboardRS/zenhub-product/issues/36)
+### `Epic` - Contentful Hydration - `18`:`18` pts. - :heavy_check_mark:closed - [zenhub-product/#36](https://github.com/OnboardRS/zenhub-product/issues/36)
 
 
  > This epic creates the default data in contentful.
