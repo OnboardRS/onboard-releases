@@ -136,14 +136,14 @@ Linked Issues: `4`
 
 #### Labels: marketing-materials release Epic ops 
 ---
-### `Epic` - onboardrs-todo-issues - `8`/`8` pts. - :x:open - [zenhub-ops/#24](https://github.com/OnboardRS/zenhub-ops/issues/24)
+### `Epic` - onboardrs-todo-issues - `8`/`8` pts. - :heavy_check_mark:closed - [zenhub-ops/#24](https://github.com/OnboardRS/zenhub-ops/issues/24)
 
 
  > Take the existing `todo-issues.yml` and make `onboard-todo.yml`
  >
- >- [ ] don't close issues when you remove todo comment
- >- [ ] default create all issues in the github repo zenhub-dev
- >- [ ] allow for a default label in the action config
+ >- [x] don't close issues when you remove todo comment
+ >- [x] default create all issues in the github repo zenhub-dev
+ >- [x] allow for a default label in the action config
  >
  >example: rent-roll
  >So all rent-roll repos they process todo comments -> create an issue in zenhub-dev and apply the label rent-roll
