@@ -54,53 +54,6 @@ Linked Issues: `5`
 </p>
 
 
-### `Epic` - [Staging] Release Ticket - `0`/`0` pts. - :heavy_check_mark:closed - [zenhub-product/#41](https://github.com/OnboardRS/zenhub-product/issues/41)
-
-
- > - [x] Amazon Cognito policy PowerUser attached to basic pod role
- >- [x] pulumi-aws-iam
- >- [x] pulumi-aws-eks
- >- [x] pulumi-aws-k8s
- >- [x] pulumi-aws-s3
- >- [x] pulumi-aws-secrets
- >- [x] pulumi-aws-cognito
- >- [x] pulumi-aws-mysql
- >- [x] pulumi-aws-route53-onboard-io
- >- [x] create SSL cert in us-east-1 (thanks cloudfront)
- >- [x] pulumi-aws-static-ui-services
- >- [x] deploy app-marketing-materials
- >- [x]  deploy app-inflight
- >- [x] deploy marketing-materials service
- >- [x] deploy property-service-c
- >- [x] deploy marketing-management-api
- >
- >
-
-#### Labels: marketing-materials release Epic ops 
----
-### `Epic` - [Production] Release Ticket  - `0`/`0` pts. - :heavy_check_mark:closed - [zenhub-product/#40](https://github.com/OnboardRS/zenhub-product/issues/40)
-
-
- > - [x] Amazon Cognito policy PowerUser attached to basic pod role
- >- [x]  pulumi-aws-iam
- >- [x]  pulumi-aws-eks
- >- [x]  pulumi-aws-k8s
- >- [x]  pulumi-aws-s3
- >- [x]  pulumi-aws-secrets
- >- [x]  pulumi-aws-cognito
- >- [x]  pulumi-aws-dms-mysql
- >- [x]  pulumi-aws-route53-onboard-io
- >- [x]  pulumi-aws-static-ui-services
- >- [x]  migrate onboardrs.com DNS to route53
- >- [x]  deploy app-inflight
- >- [x] deploy app-marketing-materials
- >- [x] deploy marketing-materials service
- >- [x] deploy property-service-c
- >- [x] deploy marketing-management-api
- >
-
-#### Labels: marketing-materials release Epic ops 
----
 ### `Epic` - Leg-Res-Landing Page - `9`/`11` pts. - :heavy_check_mark:closed - [zenhub-product/#16](https://github.com/OnboardRS/zenhub-product/issues/16)
 
 
