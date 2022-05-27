@@ -1,4 +1,4 @@
-# Release Ops-2 | `47` / `48` pts. | Status: In Progress
+# Release Ops-2 | `47` : `48` pts. | Status: In Progress
 _Release Date: 2022-05-26_
 
 
@@ -15,8 +15,8 @@ _Release Date: 2022-05-26_
  >- Staging Environment Stood Up (w/ Marketing Materials Release)
  >- Prod Environment Stood Up (w/ Marketing Materials Release)
 ---
-# Epics -- Estimated: 40 / Actual: 41 pts.
-### `Epic` - Make pulumi-aws-static-ui-services dynamic for future projects - `8`/`8` pts. - :heavy_check_mark:closed - [zenhub-product/#29](https://github.com/OnboardRS/zenhub-product/issues/29)
+# Epics -- Estimated: 40  Actual: 41 pts.
+### `Epic` - Make pulumi-aws-static-ui-services dynamic for future projects - `8`:`8` pts. - :heavy_check_mark:closed - [zenhub-product/#29](https://github.com/OnboardRS/zenhub-product/issues/29)
 
 
  > Write now in sake of time it is built with a single domain. 
@@ -36,7 +36,7 @@ Linked Issues: `3`
 </p>
 
 
-### `Epic` - Cluster Internal Ingress / Private Routing - `11`/`11` pts. - :heavy_check_mark:closed - [zenhub-product/#32](https://github.com/OnboardRS/zenhub-product/issues/32)
+### `Epic` - Cluster Internal Ingress / Private Routing - `11`:`11` pts. - :heavy_check_mark:closed - [zenhub-product/#32](https://github.com/OnboardRS/zenhub-product/issues/32)
 
 
 #### Labels: Epic ops 
@@ -51,7 +51,7 @@ Linked Issues: `2`
 </p>
 
 
-### `Epic` - Static Front End CI/CD GitHub Action - `5`/`5` pts. - :heavy_check_mark:closed - [zenhub-product/#31](https://github.com/OnboardRS/zenhub-product/issues/31)
+### `Epic` - Static Front End CI/CD GitHub Action - `5`:`5` pts. - :heavy_check_mark:closed - [zenhub-product/#31](https://github.com/OnboardRS/zenhub-product/issues/31)
 
 
 #### Labels: Epic ops 
@@ -66,7 +66,7 @@ Linked Issues: `2`
 </p>
 
 
-### `Epic` - Cognito - `6`/`6` pts. - :heavy_check_mark:closed - [zenhub-product/#34](https://github.com/OnboardRS/zenhub-product/issues/34)
+### `Epic` - Cognito - `6`:`6` pts. - :heavy_check_mark:closed - [zenhub-product/#34](https://github.com/OnboardRS/zenhub-product/issues/34)
 
 
  > We need to pulumi this out...
@@ -89,7 +89,7 @@ Linked Issues: `4`
 </p>
 
 
-### `Epic` - [Staging] Release Ticket - `0`/`0` pts. - :heavy_check_mark:closed - [zenhub-product/#41](https://github.com/OnboardRS/zenhub-product/issues/41)
+### `Epic` - [Staging] Release Ticket - `0`:`0` pts. - :heavy_check_mark:closed - [zenhub-product/#41](https://github.com/OnboardRS/zenhub-product/issues/41)
 
 
  > - [x] Amazon Cognito policy PowerUser attached to basic pod role
@@ -113,7 +113,7 @@ Linked Issues: `4`
 
 #### Labels: marketing-materials release Epic ops 
 ---
-### `Epic` - [Production] Release Ticket  - `0`/`0` pts. - :heavy_check_mark:closed - [zenhub-product/#40](https://github.com/OnboardRS/zenhub-product/issues/40)
+### `Epic` - [Production] Release Ticket  - `0`:`0` pts. - :heavy_check_mark:closed - [zenhub-product/#40](https://github.com/OnboardRS/zenhub-product/issues/40)
 
 
  > - [x] Amazon Cognito policy PowerUser attached to basic pod role
@@ -136,7 +136,7 @@ Linked Issues: `4`
 
 #### Labels: marketing-materials release Epic ops 
 ---
-### `Epic` - onboardrs-todo-issues - `8`/`8` pts. - :heavy_check_mark:closed - [zenhub-ops/#24](https://github.com/OnboardRS/zenhub-ops/issues/24)
+### `Epic` - onboardrs-todo-issues - `8`:`8` pts. - :heavy_check_mark:closed - [zenhub-ops/#24](https://github.com/OnboardRS/zenhub-ops/issues/24)
 
 
  > Take the existing `todo-issues.yml` and make `onboard-todo.yml`
@@ -159,7 +159,7 @@ Linked Issues: `1`
 </p>
 
 
-### `Epic` - Pulumi-AWS-Secrets - `2`/`3` pts. - :heavy_check_mark:closed - [zenhub-ops/#27](https://github.com/OnboardRS/zenhub-ops/issues/27)
+### `Epic` - Pulumi-AWS-Secrets - `2`:`3` pts. - :heavy_check_mark:closed - [zenhub-ops/#27](https://github.com/OnboardRS/zenhub-ops/issues/27)
 
 
  > We need an infrastructure as code repo, to manage secrets that go into AWS Secrets Manager

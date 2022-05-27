@@ -1,4 +1,4 @@
-# Release Legacy Admin Retrofit-0.1.0 | `58` / `67` pts. | Status: In Progress
+# Release Legacy Admin Retrofit-0.1.0 | `58` : `67` pts. | Status: In Progress
 _Release Date: 2022-05-26_
 
 
@@ -7,8 +7,8 @@ _Release Date: 2022-05-26_
  >The major design goal behind this release was to use Contentful to drive all the copy that is currently a mix of templates / hardcoded strings today. This allows us to meet the demands of the business sooner, and not throw away the effort when we build the new Onboard Platform.
  >We estimate 75% or more of the work done in this release, will be carried forward into the new platform
 ---
-# Epics -- Estimated: 49 / Actual: 57 pts.
-### `Epic` - Contentful Hydration - `18`/`18` pts. - :x:open - [zenhub-product/#36](https://github.com/OnboardRS/zenhub-product/issues/36)
+# Epics -- Estimated: 49  Actual: 57 pts.
+### `Epic` - Contentful Hydration - `18`:`18` pts. - :x:open - [zenhub-product/#36](https://github.com/OnboardRS/zenhub-product/issues/36)
 
 
  > This epic creates the default data in contentful.
@@ -30,7 +30,7 @@ Linked Issues: `4`
 </p>
 
 
-### `Epic` - Leg-Res Dashboard  - `15`/`18` pts. - :heavy_check_mark:closed - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
+### `Epic` - Leg-Res Dashboard  - `15`:`18` pts. - :heavy_check_mark:closed - [zenhub-product/#20](https://github.com/OnboardRS/zenhub-product/issues/20)
 
 
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/c0176774-2c9e-4d6d-8cbb-3171a872f516)
@@ -54,7 +54,7 @@ Linked Issues: `5`
 </p>
 
 
-### `Epic` - Leg-Res-Landing Page - `9`/`11` pts. - :heavy_check_mark:closed - [zenhub-product/#16](https://github.com/OnboardRS/zenhub-product/issues/16)
+### `Epic` - Leg-Res-Landing Page - `9`:`11` pts. - :heavy_check_mark:closed - [zenhub-product/#16](https://github.com/OnboardRS/zenhub-product/issues/16)
 
 
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/028b9e61-4880-4514-9c61-8ba923bb44f4)
@@ -81,14 +81,14 @@ Linked Issues: `3`
 </p>
 
 
-### `Epic` - Leg-res-accept terms page - `0`/`0` pts. - :heavy_check_mark:closed - [zenhub-product/#17](https://github.com/OnboardRS/zenhub-product/issues/17)
+### `Epic` - Leg-res-accept terms page - `0`:`0` pts. - :heavy_check_mark:closed - [zenhub-product/#17](https://github.com/OnboardRS/zenhub-product/issues/17)
 
 
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/e311b3f3-382d-465b-a27c-64f5bfb4c2c4)
 
 #### Labels: marketing-materials Epic 
 ---
-### `Epic` - Leg-res-Resident Match - `2`/`2` pts. - :heavy_check_mark:closed - [zenhub-product/#18](https://github.com/OnboardRS/zenhub-product/issues/18)
+### `Epic` - Leg-res-Resident Match - `2`:`2` pts. - :heavy_check_mark:closed - [zenhub-product/#18](https://github.com/OnboardRS/zenhub-product/issues/18)
 
 
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/d44570d1-0107-438d-9fa1-ec7766b960a2)
@@ -111,7 +111,7 @@ Linked Issues: `2`
 </p>
 
 
-### `Epic` - Contentful Data Integration - `5`/`8` pts. - :heavy_check_mark:closed - [zenhub-product/#21](https://github.com/OnboardRS/zenhub-product/issues/21)
+### `Epic` - Contentful Data Integration - `5`:`8` pts. - :heavy_check_mark:closed - [zenhub-product/#21](https://github.com/OnboardRS/zenhub-product/issues/21)
 
 
 #### Labels: marketing-materials Epic 
@@ -128,7 +128,7 @@ Linked Issues: `4`
 </p>
 
 
-### `Epic` - Legacy Landing Page Update - `0`/`0` pts. - :heavy_check_mark:closed - [zenhub-marketing-materials/#3](https://github.com/OnboardRS/zenhub-marketing-materials/issues/3)
+### `Epic` - Legacy Landing Page Update - `0`:`0` pts. - :heavy_check_mark:closed - [zenhub-marketing-materials/#3](https://github.com/OnboardRS/zenhub-marketing-materials/issues/3)
 
 
 #### Labels: 
