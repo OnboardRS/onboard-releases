@@ -1,4 +1,4 @@
-# Release Legacy Admin Retrofit-0.1.0 | `58` : `67` pts. | Status: Released
+# Release Legacy Admin Retrofit-0.1.0 | `53` : `62` pts. | Status: Released
 _Release Date: 2022-05-26_
 
 
@@ -7,8 +7,8 @@ _Release Date: 2022-05-26_
  >The major design goal behind this release was to use Contentful to drive all the copy that is currently a mix of templates / hardcoded strings today. This allows us to meet the demands of the business sooner, and not throw away the effort when we build the new Onboard Platform.
  >We estimate 75% or more of the work done in this release, will be carried forward into the new platform
 ---
-# Epics -- Estimated: 49  Actual: 57 pts.
-### `Epic` - Contentful Hydration - `18`:`18` pts. - :heavy_check_mark:closed - [zenhub-product/#36](https://github.com/OnboardRS/zenhub-product/issues/36)
+# Epics -- Estimated: 44  Actual: 52 pts.
+### `Epic` - Contentful Hydration - `13`:`13` pts. - :heavy_check_mark:closed - [zenhub-product/#36](https://github.com/OnboardRS/zenhub-product/issues/36)
 
 
  > This epic creates the default data in contentful.
@@ -18,11 +18,10 @@ _Release Date: 2022-05-26_
 
 #### Labels: marketing-materials Epic 
 ---
-Linked Issues: `4`
+Linked Issues: `3`
 <p>
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+5</td><td>+5</td><td>Issue</td><td>Sync Contentful Properties with S3 Webhook Endpoint</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/15">zenhub-dev/#15</a></td> </tr>
 <tr><td>+5</td><td>+5</td><td>Issue</td><td>MM - Create Contentful Property w/Defaults</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/15">zenhub-marketing-materials/#15</a></td> </tr>
 <tr><td>+5</td><td>+5</td><td>Issue</td><td>MMUI - Property Marketing Sections</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/16">zenhub-marketing-materials/#16</a></td> </tr>
 <tr><td>+3</td><td>+3</td><td>Issue</td><td>MMAPI - Sync Marketing Details</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/18">zenhub-marketing-materials/#18</a></td> </tr>
