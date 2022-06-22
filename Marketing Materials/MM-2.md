@@ -1,4 +1,4 @@
-# Release MM-2 | `68` : `77` pts. | Status: Released
+# Release MM-2 | `60` : `69` pts. | Status: Released
 _Release Date: 2022-05-26_
 
 
@@ -215,7 +215,7 @@ Linked Issues: `2`
 
 
 
-## Issues without Epics: || 15 pts.
+## Issues without Epics: || 7 pts.
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+2</td><td>+3</td><td>Issue</td><td>LR - Content Preview</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/11">zenhub-marketing-materials/#11</a></td> </tr>
@@ -223,6 +223,4 @@ Linked Issues: `2`
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>LR - Content Preview MM Service</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/13">zenhub-marketing-materials/#13</a></td> </tr>
 <tr><td>+2</td><td>+2</td><td>Issue</td><td>Onboard Admin Project Flags</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/14">zenhub-dev/#14</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>LR - Content Preview MMAPI</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/14">zenhub-marketing-materials/#14</a></td> </tr>
-<tr><td>+5</td><td>+5</td><td>Issue</td><td>Sync Contentful Properties with S3 Webhook Endpoint</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/15">zenhub-dev/#15</a></td> </tr>
-<tr><td>+3</td><td>+3</td><td>Issue</td><td>Code Review MM C# Services</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/16">zenhub-dev/#16</a></td> </tr>
 </table>
