@@ -1,4 +1,4 @@
-# Release MM-4 | `44` : `44` pts. | Status: Released
+# Release MM-4 | `45` : `45` pts. | Status: Released
 _Release Date: 2022-06-24_
 
 
@@ -16,7 +16,7 @@ _Release Date: 2022-06-24_
 #### Labels: marketing-materials Epic 
 ---
 
-## Issues without Epics: || 44 pts.
+## Issues without Epics: || 45 pts.
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+3</td><td>+3</td><td>Issue</td><td>Legacy Admin Hotfixes</td><td>legacy-admin </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/38">zenhub-marketing-materials/#38</a></td> </tr>
@@ -33,6 +33,7 @@ _Release Date: 2022-06-24_
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>use the HTTP Response from the return value and handle it appropriately (logging)</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/76">zenhub-dev/#76</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>Check Http Response status code before deserializing</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/77">zenhub-dev/#77</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>Check Http Response status code before deserializing</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/78">zenhub-dev/#78</a></td> </tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>Check Http Response status code before deserializing</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/79">zenhub-dev/#79</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>Add validation to response and log any error that may have occurred (associate with email that came in)</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/80">zenhub-dev/#80</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>Add validation to response and log any error that may have occurred (associate with email that came in)</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/81">zenhub-dev/#81</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>Scope out if we can have a model validator that checks if the passwords equal each other.</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/82">zenhub-dev/#82</a></td> </tr>
