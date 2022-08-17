@@ -7,35 +7,6 @@ _Release Date: 2022-05-12_
  >This represents the culmination of basically the last 3 months of working coming together. This release is 100% in AWS running our our new network and k8s cluster. We released all of this using our new CI/CD process built upon GitHub Actions along with Helm Charts etc... (more nerd words)
 ---
 # Epics -- Estimated: 45  Actual: 43 pts.
-### `Epic` - pulumi-aws-s3 - `3`:`3` pts. - :heavy_check_mark:closed - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
-
-
- > We need a top level pulumi project for S3 buckets that are needed by services, but ARE NOT hosting UI.
- >These are purely data buckets in a central location to manage them.
- >
- >Ideally we would use this naming convention.
- >
- >
- >`{lane}-bucket-name` drop `{lane}` off production buckets.
- >
- >Example:
- >Dev: `dev-rent-roll`
- >Stage: `staging-rent-roll`
- >Prod: `rent-roll`
- >
- >When in doubt use `onboardrs` in bucket names for uniqueness
-
-#### Labels: Epic ops 
----
-Linked Issues: `1`
-<p>
-<table>
-<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+3</td><td>+3</td><td>Issue</td><td>pulumi-aws-s3</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/23">zenhub-ops/#23</a></td> </tr>
-</table>
-</p>
-
-
 ### `Epic` - Automate RDS Snapshot Sharing Between Accounts - `5`:`5` pts. - :heavy_check_mark:closed - [zenhub-product/#25](https://github.com/OnboardRS/zenhub-product/issues/25)
 
 
@@ -76,6 +47,35 @@ Linked Issues: `8`
 <tr><td>+2</td><td>+1</td><td>Issue</td><td>RDS MYSQL</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/6">pulumi-aws-mysql/#6</a></td> </tr>
 <tr><td>+2</td><td>+1</td><td>Issue</td><td>AWS Secrets Manager</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/7">pulumi-aws-mysql/#7</a></td> </tr>
 <tr><td>+2</td><td>+1</td><td>Issue</td><td>AWS Secret Rotation</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/pulumi-aws-mysql/issues/8">pulumi-aws-mysql/#8</a></td> </tr>
+</table>
+</p>
+
+
+### `Epic` - pulumi-aws-s3 - `3`:`3` pts. - :heavy_check_mark:closed - [zenhub-product/#26](https://github.com/OnboardRS/zenhub-product/issues/26)
+
+
+ > We need a top level pulumi project for S3 buckets that are needed by services, but ARE NOT hosting UI.
+ >These are purely data buckets in a central location to manage them.
+ >
+ >Ideally we would use this naming convention.
+ >
+ >
+ >`{lane}-bucket-name` drop `{lane}` off production buckets.
+ >
+ >Example:
+ >Dev: `dev-rent-roll`
+ >Stage: `staging-rent-roll`
+ >Prod: `rent-roll`
+ >
+ >When in doubt use `onboardrs` in bucket names for uniqueness
+
+#### Labels: Epic ops 
+---
+Linked Issues: `1`
+<p>
+<table>
+<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+3</td><td>+3</td><td>Issue</td><td>pulumi-aws-s3</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/23">zenhub-ops/#23</a></td> </tr>
 </table>
 </p>
 

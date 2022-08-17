@@ -36,21 +36,6 @@ Linked Issues: `3`
 </p>
 
 
-### `Epic` - Cluster Internal Ingress / Private Routing - `11`:`11` pts. - :heavy_check_mark:closed - [zenhub-product/#32](https://github.com/OnboardRS/zenhub-product/issues/32)
-
-
-#### Labels: Epic ops 
----
-Linked Issues: `2`
-<p>
-<table>
-<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+8</td><td>+8</td><td>Issue</td><td>Internal K8s Ingress</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/18">zenhub-ops/#18</a></td> </tr>
-<tr><td>+3</td><td>+3</td><td>Issue</td><td>Route53 Private Hosted Zone</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/19">zenhub-ops/#19</a></td> </tr>
-</table>
-</p>
-
-
 ### `Epic` - Static Front End CI/CD GitHub Action - `5`:`5` pts. - :heavy_check_mark:closed - [zenhub-product/#31](https://github.com/OnboardRS/zenhub-product/issues/31)
 
 
@@ -62,6 +47,21 @@ Linked Issues: `2`
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+3</td><td>+3</td><td>Issue</td><td>Build the thing</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-product/issues/42">zenhub-product/#42</a></td> </tr>
 <tr><td>+2</td><td>+2</td><td>Issue</td><td>Invalidate the cloudfront cache</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-product/issues/43">zenhub-product/#43</a></td> </tr>
+</table>
+</p>
+
+
+### `Epic` - Cluster Internal Ingress / Private Routing - `11`:`11` pts. - :heavy_check_mark:closed - [zenhub-product/#32](https://github.com/OnboardRS/zenhub-product/issues/32)
+
+
+#### Labels: Epic ops 
+---
+Linked Issues: `2`
+<p>
+<table>
+<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+8</td><td>+8</td><td>Issue</td><td>Internal K8s Ingress</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/18">zenhub-ops/#18</a></td> </tr>
+<tr><td>+3</td><td>+3</td><td>Issue</td><td>Route53 Private Hosted Zone</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-ops/issues/19">zenhub-ops/#19</a></td> </tr>
 </table>
 </p>
 

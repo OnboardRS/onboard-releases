@@ -23,6 +23,13 @@ Linked Issues: `5`
 </p>
 
 
+### `Epic` - Secrets Nuget Package, Look at Cache / Rotating Cache - `0`:`0` pts. - :heavy_check_mark:closed - [zenhub-product/#30](https://github.com/OnboardRS/zenhub-product/issues/30)
+
+
+ > With our DB secrets rotating every 14 days, if we aren't refreshing secrets in the pods... every 2 weeks we are going to have an outage until we bounce pods.
+
+#### Labels: Epic ops 
+---
 ### `Epic` - Cronjob HelmCharts - `5`:`7` pts. - :heavy_check_mark:closed - [zenhub-product/#48](https://github.com/OnboardRS/zenhub-product/issues/48)
 
 
@@ -56,13 +63,6 @@ Linked Issues: `3`
 </p>
 
 
-### `Epic` - Secrets Nuget Package, Look at Cache / Rotating Cache - `0`:`0` pts. - :heavy_check_mark:closed - [zenhub-product/#30](https://github.com/OnboardRS/zenhub-product/issues/30)
-
-
- > With our DB secrets rotating every 14 days, if we aren't refreshing secrets in the pods... every 2 weeks we are going to have an outage until we bounce pods.
-
-#### Labels: Epic ops 
----
 ### `Epic` - pulumi-aws-postgres - `7`:`7` pts. - :heavy_check_mark:closed - [zenhub-ops/#29](https://github.com/OnboardRS/zenhub-ops/issues/29)
 
 
