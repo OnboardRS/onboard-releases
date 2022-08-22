@@ -7,7 +7,7 @@ _Release Date: 2022-08-19_
  >- [dev,staging,prod] - Image App, hosting for pinpoint images
  >- [dev] - PHP Admin in AWS
 ---
-# Epics -- Estimated: 57  Actual: 61 pts.
+# Epics -- Estimated: 60  Actual: 64 pts.
 ### `Epic` - [dev] - Configure Legacy Admin Ecosystem - `11`:`11` pts. - :heavy_check_mark:closed - [zenhub-dev/#239](https://github.com/OnboardRS/zenhub-dev/issues/239)
 
 
@@ -38,6 +38,53 @@ Linked Issues: `3`
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>[dev] -- Create img app</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/255">zenhub-dev/#255</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>[staging] -- Create img app</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/256">zenhub-dev/#256</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>[prod] -- Create img app</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/257">zenhub-dev/#257</a></td> </tr>
+</table>
+</p>
+
+
+### `Epic` - Zendesk Custom Fields for Opt-Out - `3`:`3` pts. - :heavy_check_mark:closed - [zenhub-dev/#263](https://github.com/OnboardRS/zenhub-dev/issues/263)
+
+
+ > We need to add a few custom fields to Zendesk to make the new opt-out flow on landing pages better
+ >
+ >Ticket Type: [drop-down]
+ >- Resident Support
+ >- Property Support
+ >- Opt-Out
+ >
+ >Opt-Out Reason: [drop-down]
+ >- I’m currently paying less for similar services.
+ >- I’m moving out soon.
+ >- I don’t want to switch providers.
+ >- I already utilize services from this provider.
+ >- Other.
+ >
+ >In addition to these fields, we need to update the existing automations that currently categorize emails into groups. To have it also set the Ticket Type.
+ >
+ >We need to do some additional training with the RSAs for when a user by passes the opt-out form, and just sends in an email:
+ >
+ >People who just email in to opt-out will create a new Resident Support ticket.
+ >We need to show the RSAs when you get an opt-out ticket via Resident Support Email:
+ >
+ >-  Update the ticket type to opt-out 
+ >-  Talk to the resident and find out why and update it in the drop down
+ >
+ >
+ >Reference Docs:
+ >![image.png](https://images.zenhubusercontent.com/623b9450b52d5c969dd04278/a790e8f0-1631-441d-a79a-3f5fc931f650)
+ >https://support.zendesk.com/hc/en-us/articles/4408824384538-Reporting-with-custom-fields
+ >
+ >
+
+#### Labels: Epic ops 
+---
+Linked Issues: `3`
+<p>
+<table>
+<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>[zd] Create Custom Fields</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/264">zenhub-dev/#264</a></td> </tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>[zd] Update Automations</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/265">zenhub-dev/#265</a></td> </tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>[zd] Update Agent Views</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/266">zenhub-dev/#266</a></td> </tr>
 </table>
 </p>
 
@@ -86,11 +133,8 @@ Linked Issues: `18`
 
 
 
-## Issues without Epics: || 6 pts.
+## Issues without Epics: || 3 pts.
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+1</td><td>+1</td><td>Issue</td><td>[zd] Create Custom Fields</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/264">zenhub-dev/#264</a></td> </tr>
-<tr><td>+1</td><td>+1</td><td>Issue</td><td>[zd] Update Automations</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/265">zenhub-dev/#265</a></td> </tr>
-<tr><td>+1</td><td>+1</td><td>Issue</td><td>[zd] Update Agent Views</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/266">zenhub-dev/#266</a></td> </tr>
 <tr><td>+3</td><td>+3</td><td>Issue</td><td>Build deploy process for pinpoint templates</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/351">zenhub-dev/#351</a></td> </tr>
 </table>
