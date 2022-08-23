@@ -52,12 +52,10 @@ Linked Issues: `2`
 
 #### Labels: Epic ops 
 ---
-Linked Issues: `3`
+Linked Issues: `1`
 <p>
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Determine AlertManagerNotifications and RuleGroupNamespaces</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/118">zenhub-dev/#118</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Move the role creation from here to the centralized pod role repo</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/119">zenhub-dev/#119</a></td> </tr>
 <tr><td>+3</td><td>+3</td><td>Issue</td><td>SPIKE: AWS AMP</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/138">zenhub-dev/#138</a></td> </tr>
 </table>
 </p>

@@ -1,4 +1,4 @@
-# Release MM-2 | `60` : `69` pts. | Status: Released
+# Release MM-2 | `48` : `57` pts. | Status: Released
 _Release Date: 2022-05-26_
 
 
@@ -7,7 +7,7 @@ _Release Date: 2022-05-26_
  >The major design goal behind this release was to use Contentful to drive all the copy that is currently a mix of templates / hardcoded strings today. This allows us to meet the demands of the business sooner, and not throw away the effort when we build the new Onboard Platform.
  >We estimate 75% or more of the work done in this release, will be carried forward into the new platform
 ---
-# Epics -- Estimated: 53  Actual: 61 pts.
+# Epics -- Estimated: 41  Actual: 49 pts.
 ### `Epic` - Leg-res-accept terms page - `0`:`0` pts. - :heavy_check_mark:closed - [zenhub-product/#17](https://github.com/OnboardRS/zenhub-product/issues/17)
 
 
@@ -15,7 +15,7 @@ _Release Date: 2022-05-26_
 
 #### Labels: marketing-materials Epic 
 ---
-### `Epic` - Leg-Res - Addendum - `7`:`7` pts. - :x:open - [zenhub-product/#19](https://github.com/OnboardRS/zenhub-product/issues/19)
+### `Epic` - Leg-Res - Addendum - `0`:`0` pts. - :x:open - [zenhub-product/#19](https://github.com/OnboardRS/zenhub-product/issues/19)
 
 
  > ![image.png](https://images.zenhubusercontent.com/623b987e80270fefbc260db9/49900870-0ec4-48d3-9bc4-8079e8aa53f5)
@@ -25,16 +25,6 @@ _Release Date: 2022-05-26_
 
 #### Labels: marketing-materials Epic 
 ---
-Linked Issues: `2`
-<p>
-<table>
-<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>LR-Addendum Content Models</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/12">zenhub-dev/#12</a></td> </tr>
-<tr><td>+5</td><td>+5</td><td>Issue</td><td>LR-Addendum PDF Render</td><td>marketing-materials </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/13">zenhub-dev/#13</a></td> </tr>
-</table>
-</p>
-
-
 ### `Epic` - Leg-Res-Landing Page - `9`:`11` pts. - :heavy_check_mark:closed - [zenhub-product/#16](https://github.com/OnboardRS/zenhub-product/issues/16)
 
 
@@ -79,7 +69,7 @@ Linked Issues: `4`
 </p>
 
 
-### `Epic` - Contentful Hydration - `13`:`13` pts. - :heavy_check_mark:closed - [zenhub-product/#36](https://github.com/OnboardRS/zenhub-product/issues/36)
+### `Epic` - Contentful Hydration - `8`:`8` pts. - :heavy_check_mark:closed - [zenhub-product/#36](https://github.com/OnboardRS/zenhub-product/issues/36)
 
 
  > This epic creates the default data in contentful.
@@ -89,12 +79,11 @@ Linked Issues: `4`
 
 #### Labels: marketing-materials Epic 
 ---
-Linked Issues: `3`
+Linked Issues: `2`
 <p>
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+5</td><td>+5</td><td>Issue</td><td>MM - Create Contentful Property w/Defaults</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/15">zenhub-marketing-materials/#15</a></td> </tr>
-<tr><td>+5</td><td>+5</td><td>Issue</td><td>MMUI - Property Marketing Sections</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/16">zenhub-marketing-materials/#16</a></td> </tr>
 <tr><td>+3</td><td>+3</td><td>Issue</td><td>MMAPI - Sync Marketing Details</td><td>marketing-materials </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-marketing-materials/issues/18">zenhub-marketing-materials/#18</a></td> </tr>
 </table>
 </p>

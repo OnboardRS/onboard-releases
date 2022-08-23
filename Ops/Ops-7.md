@@ -27,15 +27,6 @@ _Release Date: 2022-08-05_
 
 #### Labels: Epic ops 
 ---
-Linked Issues: `1`
-<p>
-<table>
-<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Move the role creation from here to the centralized pod role repo</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/119">zenhub-dev/#119</a></td> </tr>
-</table>
-</p>
-
-
 ### `Epic` - Legacy Admin PubSub - `0`:`0` pts. - :heavy_check_mark:closed - [zenhub-product/#52](https://github.com/OnboardRS/zenhub-product/issues/52)
 
 
