@@ -23,39 +23,6 @@ Linked Issues: `2`
 </p>
 
 
-### `Epic` - Kubernetes Cluster Refactor - `22`:`26` pts. - :x:open - [zenhub-dev/#322](https://github.com/OnboardRS/zenhub-dev/issues/322)
-
-
- > The K8s cluster in its current state was an unpolished PoC sent to prod as a hosting environment for new 2.0 services was needed immediately.
- >
- >After using it in this state for the past couple of months certain iterable improvements were noted and backlogged. This epic is for the representation of effort for the first of these improvements but more importantly for decoupling the monolithic cluster management into multiple chunks easier to affect by logical groupings, facilitating easier improvements in the future.
- >
- >Work to be done:
- >Resize the cluster onto new node types
- >Stand up a new second cluster
- >Deploy parallel cluster infrastructure
- >Prep and deploy applications to new cluster
- >Cut over with minimal to no downtime
- >Promote the cut over per environment 
-
-#### Labels: Epic ops 
----
-Linked Issues: `8`
-<p>
-<table>
-<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+1</td><td>+2</td><td>Issue</td><td>SPIKE - Decide on new cluster node size</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/323">zenhub-dev/#323</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Dev - Cluster resize</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/324">zenhub-dev/#324</a></td> </tr>
-<tr><td>+8</td><td>+13</td><td>Issue</td><td>POC - Refactor cluster</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/327">zenhub-dev/#327</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Dev - Deploy cluster refactor</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/328">zenhub-dev/#328</a></td> </tr>
-<tr><td>+3</td><td>+2</td><td>Issue</td><td>Prepare deployed applications for new cluster deployment</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/331">zenhub-dev/#331</a></td> </tr>
-<tr><td>+2</td><td>+1</td><td>Issue</td><td>Dev - Deploy apps to new cluster</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/332">zenhub-dev/#332</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Dev - New cluster cutover</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/335">zenhub-dev/#335</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Dev - Old cluster cleanup</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/338">zenhub-dev/#338</a></td> </tr>
-</table>
-</p>
-
-
 ### `Epic` - Image Hosting for Pinpoint Images - `3`:`3` pts. - :heavy_check_mark:closed - [zenhub-dev/#252](https://github.com/OnboardRS/zenhub-dev/issues/252)
 
 
@@ -117,6 +84,39 @@ Linked Issues: `3`
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>[zd] Create Custom Fields</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/264">zenhub-dev/#264</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>[zd] Update Automations</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/265">zenhub-dev/#265</a></td> </tr>
 <tr><td>+1</td><td>+1</td><td>Issue</td><td>[zd] Update Agent Views</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/266">zenhub-dev/#266</a></td> </tr>
+</table>
+</p>
+
+
+### `Epic` - Kubernetes Cluster Refactor - `22`:`26` pts. - :x:open - [zenhub-dev/#322](https://github.com/OnboardRS/zenhub-dev/issues/322)
+
+
+ > The K8s cluster in its current state was an unpolished PoC sent to prod as a hosting environment for new 2.0 services was needed immediately.
+ >
+ >After using it in this state for the past couple of months certain iterable improvements were noted and backlogged. This epic is for the representation of effort for the first of these improvements but more importantly for decoupling the monolithic cluster management into multiple chunks easier to affect by logical groupings, facilitating easier improvements in the future.
+ >
+ >Work to be done:
+ >Resize the cluster onto new node types
+ >Stand up a new second cluster
+ >Deploy parallel cluster infrastructure
+ >Prep and deploy applications to new cluster
+ >Cut over with minimal to no downtime
+ >Promote the cut over per environment 
+
+#### Labels: Epic ops 
+---
+Linked Issues: `8`
+<p>
+<table>
+<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+1</td><td>+2</td><td>Issue</td><td>SPIKE - Decide on new cluster node size</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/323">zenhub-dev/#323</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Dev - Cluster resize</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/324">zenhub-dev/#324</a></td> </tr>
+<tr><td>+8</td><td>+13</td><td>Issue</td><td>POC - Refactor cluster</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/327">zenhub-dev/#327</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Dev - Deploy cluster refactor</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/328">zenhub-dev/#328</a></td> </tr>
+<tr><td>+3</td><td>+2</td><td>Issue</td><td>Prepare deployed applications for new cluster deployment</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/331">zenhub-dev/#331</a></td> </tr>
+<tr><td>+2</td><td>+1</td><td>Issue</td><td>Dev - Deploy apps to new cluster</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/332">zenhub-dev/#332</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Dev - New cluster cutover</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/335">zenhub-dev/#335</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Dev - Old cluster cleanup</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/338">zenhub-dev/#338</a></td> </tr>
 </table>
 </p>
 

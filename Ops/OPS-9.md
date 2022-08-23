@@ -1,4 +1,4 @@
-# Release OPS-9 | `28` : `28` pts. | Status: In Progress
+# Release Ops-9 | `28` : `28` pts. | Status: In Progress
 _Release Date: 2022-09-02_
 
 
@@ -67,4 +67,12 @@ Linked Issues: `4`
 </p>
 
 
+### `Epic` - Pinpoint Analytics - `0`:`0` pts. - :x:open - [zenhub-dev/#367](https://github.com/OnboardRS/zenhub-dev/issues/367)
+
+
+ > This epic represents the AWS infrastructure around capturing AWS Pinpoint Events via a Kinesis stream.
+ >This event feed will also represent an S3 partition to persist these events and later mount Athena on top to query for basic analytics.
+
+#### Labels: Epic ops 
+---
 
