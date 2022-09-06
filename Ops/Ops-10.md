@@ -1,10 +1,36 @@
-# Release Ops-10 | `37` : `37` pts. | Status: In Progress
+# Release Ops-10 | `42` : `42` pts. | Status: In Progress
 _Release Date: 2022-09-16_
 
 
  > 
 ---
-# Epics -- Estimated: 35  Actual: 35 pts.
+# Epics -- Estimated: 42  Actual: 42 pts.
+### `Epic` - Kubernetes Cluster Refactor - `2`:`2` pts. - :heavy_check_mark:closed - [zenhub-dev/#322](https://github.com/OnboardRS/zenhub-dev/issues/322)
+
+
+ > The K8s cluster in its current state was an unpolished PoC sent to prod as a hosting environment for new 2.0 services was needed immediately.
+ >
+ >After using it in this state for the past couple of months certain iterable improvements were noted and backlogged. This epic is for the representation of effort for the first of these improvements but more importantly for decoupling the monolithic cluster management into multiple chunks easier to affect by logical groupings, facilitating easier improvements in the future.
+ >
+ >Work to be done:
+ >Resize the cluster onto new node types
+ >Stand up a new second cluster
+ >Deploy parallel cluster infrastructure
+ >Prep and deploy applications to new cluster
+ >Cut over with minimal to no downtime
+ >Promote the cut over per environment 
+
+#### Labels: Epic ops 
+---
+Linked Issues: `1`
+<p>
+<table>
+<tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Prod - Old cluster cleanup</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/340">zenhub-dev/#340</a></td> </tr>
+</table>
+</p>
+
+
 ### `Epic` - Pinpoint Analytics - `25`:`25` pts. - :x:open - [zenhub-dev/#367](https://github.com/OnboardRS/zenhub-dev/issues/367)
 
 
@@ -45,7 +71,7 @@ Linked Issues: `3`
 </p>
 
 
-### `Epic` - Legacy Admin AWS Migration - `0`:`0` pts. - :x:open - [zenhub-dev/#423](https://github.com/OnboardRS/zenhub-dev/issues/423)
+### `Epic` - Legacy Admin AWS Migration - `5`:`5` pts. - :x:open - [zenhub-dev/#423](https://github.com/OnboardRS/zenhub-dev/issues/423)
 
 
  > This epic represents the work to complete building out Legacy Admin in AWS-Staging and AWS-Prod.
@@ -57,9 +83,17 @@ Linked Issues: `3`
 
 #### Labels: Epic ops 
 ---
-
-## Issues without Epics: || 2 pts.
+Linked Issues: `5`
+<p>
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Prod - Old cluster cleanup</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/340">zenhub-dev/#340</a></td> </tr>
+<tr><td>+5</td><td>+5</td><td>Issue</td><td>[dev] - Legacy Admin snapshots powershell + github action</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/428">zenhub-dev/#428</a></td> </tr>
+<tr><td>+0</td><td>+0</td><td>Issue</td><td>[staging] - Legacy Admin snapshot github action</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/429">zenhub-dev/#429</a></td> </tr>
+<tr><td>+0</td><td>+0</td><td>Issue</td><td>[prod] - Legacy Admin snapshot github action</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/430">zenhub-dev/#430</a></td> </tr>
+<tr><td>+0</td><td>+0</td><td>Issue</td><td>[staging] - Standup Legacy Admin in staging</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/431">zenhub-dev/#431</a></td> </tr>
+<tr><td>+0</td><td>+0</td><td>Issue</td><td>[prod] - Standup Legacy Admin in prod</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/432">zenhub-dev/#432</a></td> </tr>
 </table>
+</p>
+
+
+
