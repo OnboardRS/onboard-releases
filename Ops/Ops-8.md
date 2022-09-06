@@ -88,7 +88,7 @@ Linked Issues: `3`
 </p>
 
 
-### `Epic` - Kubernetes Cluster Refactor - `22`:`26` pts. - :x:open - [zenhub-dev/#322](https://github.com/OnboardRS/zenhub-dev/issues/322)
+### `Epic` - Kubernetes Cluster Refactor - `22`:`26` pts. - :heavy_check_mark:closed - [zenhub-dev/#322](https://github.com/OnboardRS/zenhub-dev/issues/322)
 
 
  > The K8s cluster in its current state was an unpolished PoC sent to prod as a hosting environment for new 2.0 services was needed immediately.

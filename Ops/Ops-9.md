@@ -1,8 +1,21 @@
-# Release Ops-9 | `35` : `35` pts. | Status: In Progress
+# Release Ops-9 | `35` : `35` pts. | Status: Released
 _Release Date: 2022-09-02_
 
 
- > 
+ > Pinpoint
+ >
+ >- Pinpoint analytics project to collect user events
+ >- Beginning of Lambda to process real time events
+ >- Beginning of Athena pipeline for later data analytics / reporting
+ >
+ >Legacy Admin
+ >
+ >- Made PHP Admin infrastructure in AWS more durable.
+ >- Rolled out to dev
+ >
+ >K8s Cluster
+ >
+ >- Refactored K8s to just use manifests and helm charts; removed the pulumi provider to simplify things
 ---
 # Epics -- Estimated: 35  Actual: 35 pts.
 ### `Epic` - Kubernetes Cluster Refactor - `19`:`19` pts. - :heavy_check_mark:closed - [zenhub-dev/#322](https://github.com/OnboardRS/zenhub-dev/issues/322)

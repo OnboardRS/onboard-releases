@@ -1,8 +1,23 @@
-# Release MM-9 | `39` : `38` pts. | Status: In Progress
+# Release MM-9 | `39` : `38` pts. | Status: Released
 _Release Date: 2022-09-02_
 
 
- > 
+ > Legacy Admin:
+ >
+ >- Update opt out logic for UI & Zendesk ticket creation
+ >
+ >Legacy Resident Portal:
+ >
+ >- Landing page opt out form - submit Zendesk ticket
+ >- Merge tag bug fixes
+ >- Add support for Stripe properties to use CMS views
+ >
+ >Misc:
+ >
+ >- Create standardized API responses for backend services
+ >- Add FAQ order field for easier contentful management
+ >- Add display phase for contentful instructions for more control
+ >- Update UI on internal marketing materials app
 ---
 # Epics -- Estimated: 0  Actual: 0 pts.
 
