@@ -1,10 +1,10 @@
-# Release Ops-9 | `41` : `41` pts. | Status: In Progress
+# Release Ops-9 | `62` : `62` pts. | Status: In Progress
 _Release Date: 2022-09-02_
 
 
  > 
 ---
-# Epics -- Estimated: 41  Actual: 41 pts.
+# Epics -- Estimated: 62  Actual: 62 pts.
 ### `Epic` - Kubernetes Cluster Refactor - `21`:`21` pts. - :x:open - [zenhub-dev/#322](https://github.com/OnboardRS/zenhub-dev/issues/322)
 
 
@@ -26,21 +26,21 @@ Linked Issues: `10`
 <p>
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Staging - Cluster resize</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/325">zenhub-dev/#325</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Prod - Cluster resize</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/326">zenhub-dev/#326</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Staging - Deploy cluster refactor</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/329">zenhub-dev/#329</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Prod - Deploy cluster refactor</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/330">zenhub-dev/#330</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Staging - Deploy apps to new cluster</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/333">zenhub-dev/#333</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Prod - Deploy apps to new cluster</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/334">zenhub-dev/#334</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Staging - New cluster cutover</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/336">zenhub-dev/#336</a></td> </tr>
-<tr><td>+3</td><td>+3</td><td>Issue</td><td>Prod - New cluster cutover</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/337">zenhub-dev/#337</a></td> </tr>
-<tr><td>+2</td><td>+2</td><td>Issue</td><td>Staging - Old cluster cleanup</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/339">zenhub-dev/#339</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Staging - Cluster resize</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/325">zenhub-dev/#325</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Prod - Cluster resize</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/326">zenhub-dev/#326</a></td> </tr>
+<tr><td>+2</td><td>+3</td><td>Issue</td><td>Staging - Deploy cluster refactor</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/329">zenhub-dev/#329</a></td> </tr>
+<tr><td>+2</td><td>+3</td><td>Issue</td><td>Prod - Deploy cluster refactor</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/330">zenhub-dev/#330</a></td> </tr>
+<tr><td>+2</td><td>+3</td><td>Issue</td><td>Staging - Deploy apps to new cluster</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/333">zenhub-dev/#333</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Prod - Deploy apps to new cluster</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/334">zenhub-dev/#334</a></td> </tr>
+<tr><td>+2</td><td>+1</td><td>Issue</td><td>Staging - New cluster cutover</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/336">zenhub-dev/#336</a></td> </tr>
+<tr><td>+3</td><td>+1</td><td>Issue</td><td>Prod - New cluster cutover</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/337">zenhub-dev/#337</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Staging - Old cluster cleanup</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/339">zenhub-dev/#339</a></td> </tr>
 <tr><td>+2</td><td>+2</td><td>Issue</td><td>Prod - Old cluster cleanup</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/340">zenhub-dev/#340</a></td> </tr>
 </table>
 </p>
 
 
-### `Epic` - Legacy Admin -> AWS, Improve storage and durability - `7`:`7` pts. - :x:open - [zenhub-dev/#362](https://github.com/OnboardRS/zenhub-dev/issues/362)
+### `Epic` - Legacy Admin -> AWS, Improve storage and durability - `7`:`7` pts. - :heavy_check_mark:closed - [zenhub-dev/#362](https://github.com/OnboardRS/zenhub-dev/issues/362)
 
 
  > The way forge and envoyer work, the hosts for php admin have to be treated like pets.
@@ -67,7 +67,7 @@ Linked Issues: `4`
 </p>
 
 
-### `Epic` - Pinpoint Analytics - `13`:`13` pts. - :x:open - [zenhub-dev/#367](https://github.com/OnboardRS/zenhub-dev/issues/367)
+### `Epic` - Pinpoint Analytics - `34`:`34` pts. - :x:open - [zenhub-dev/#367](https://github.com/OnboardRS/zenhub-dev/issues/367)
 
 
  > This epic represents the AWS infrastructure around capturing AWS Pinpoint Events via a Kinesis stream.
@@ -77,23 +77,27 @@ Linked Issues: `4`
 
 #### Labels: Epic ops 
 ---
-Linked Issues: `11`
+Linked Issues: `10`
 <p>
 <table>
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Build Kinesis Stream</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/374">zenhub-dev/#374</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Build Kinesis Firehose IAM policies</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/375">zenhub-dev/#375</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Build S3 Bucket for pinpoint-data</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/376">zenhub-dev/#376</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Build Kinesis Firehoses</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/377">zenhub-dev/#377</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Build Lambda IAM policies</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/378">zenhub-dev/#378</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Build Kinesis Stream</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/374">zenhub-dev/#374</a></td> </tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>Build Kinesis Firehose IAM policies</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/375">zenhub-dev/#375</a></td> </tr>
+<tr><td>+1</td><td>+1</td><td>Issue</td><td>Build S3 Bucket for pinpoint-data</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/376">zenhub-dev/#376</a></td> </tr>
+<tr><td>+5</td><td>+5</td><td>Issue</td><td>Build Kinesis Firehoses</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/377">zenhub-dev/#377</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>Build Lambda IAM policies</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/378">zenhub-dev/#378</a></td> </tr>
 <tr><td>+13</td><td>+13</td><td>Issue</td><td>Build pinpoint-kinesis-lambda</td><td>ops resident-spaminator </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/379">zenhub-dev/#379</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Build Lambda CI/CD</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/380">zenhub-dev/#380</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>AWS Glue Crawlers</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/381">zenhub-dev/#381</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>AWS Glue Data Catalog</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/382">zenhub-dev/#382</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>AWS Athena</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/383">zenhub-dev/#383</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>Test Athena Partitions</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/384">zenhub-dev/#384</a></td> </tr>
+<tr><td>+3</td><td>+3</td><td>Issue</td><td>AWS Glue Crawlers</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/381">zenhub-dev/#381</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>AWS Glue Data Catalog</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/382">zenhub-dev/#382</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>AWS Athena</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/383">zenhub-dev/#383</a></td> </tr>
+<tr><td>+3</td><td>+3</td><td>Issue</td><td>Test Athena Partitions</td><td>ops </td><td>:x:open</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/384">zenhub-dev/#384</a></td> </tr>
 </table>
 </p>
 
 
+### `Epic` - Build Lambda CI/CD - `0`:`0` pts. - :x:open - [zenhub-dev/#380](https://github.com/OnboardRS/zenhub-dev/issues/380)
+
+
+#### Labels: Epic ops 
+---
 
