@@ -79,7 +79,7 @@ Linked Issues: `4`
 </p>
 
 
-### `Epic` - Pinpoint Analytics - `9`:`9` pts. - :x:open - [zenhub-dev/#367](https://github.com/OnboardRS/zenhub-dev/issues/367)
+### `Epic` - Pinpoint Analytics - `9`:`9` pts. - :heavy_check_mark:closed - [zenhub-dev/#367](https://github.com/OnboardRS/zenhub-dev/issues/367)
 
 
  > This epic represents the AWS infrastructure around capturing AWS Pinpoint Events via a Kinesis stream.
