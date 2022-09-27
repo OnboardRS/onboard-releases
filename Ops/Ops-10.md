@@ -1,4 +1,4 @@
-# Release Ops-10 | `43` : `43` pts. | Status: Released
+# Release Ops-10 | `47` : `47` pts. | Status: Released
 _Release Date: 2022-09-16_
 
 
@@ -18,7 +18,7 @@ _Release Date: 2022-09-16_
  >- Legacy Admin to Staging
  >
 ---
-# Epics -- Estimated: 35  Actual: 35 pts.
+# Epics -- Estimated: 39  Actual: 39 pts.
 ### `Epic` - Kubernetes Cluster Refactor - `2`:`2` pts. - :heavy_check_mark:closed - [zenhub-dev/#322](https://github.com/OnboardRS/zenhub-dev/issues/322)
 
 
@@ -45,7 +45,7 @@ Linked Issues: `1`
 </p>
 
 
-### `Epic` - Pinpoint Analytics - `15`:`15` pts. - :heavy_check_mark:closed - [zenhub-dev/#367](https://github.com/OnboardRS/zenhub-dev/issues/367)
+### `Epic` - Pinpoint Analytics - `19`:`19` pts. - :heavy_check_mark:closed - [zenhub-dev/#367](https://github.com/OnboardRS/zenhub-dev/issues/367)
 
 
  > This epic represents the AWS infrastructure around capturing AWS Pinpoint Events via a Kinesis stream.
@@ -61,8 +61,8 @@ Linked Issues: `4`
 <tr><th>Est</th><th>Act</th><th>Type</th><th>Title</th><th>Labels</th><th>Status</th><th>Link</th></tr>
 <tr><td>+2</td><td>+2</td><td>Issue</td><td>Build Lambda IAM policies</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/378">zenhub-dev/#378</a></td> </tr>
 <tr><td>+13</td><td>+13</td><td>Issue</td><td>Build pinpoint-kinesis-lambda</td><td>ops resident-spaminator </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/379">zenhub-dev/#379</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>pulumi-aws-pinpoint-analytics: Add VPC Permissions to Lambda Role</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/437">zenhub-dev/#437</a></td> </tr>
-<tr><td>+0</td><td>+0</td><td>Issue</td><td>pulumi-aws-pinpoint-analytics: Add Security Group for Lambda</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/438">zenhub-dev/#438</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>pulumi-aws-pinpoint-analytics: Add VPC Permissions to Lambda Role</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/437">zenhub-dev/#437</a></td> </tr>
+<tr><td>+2</td><td>+2</td><td>Issue</td><td>pulumi-aws-pinpoint-analytics: Add Security Group for Lambda</td><td>ops </td><td>:heavy_check_mark:closed</td><td><a href="https://github.com/OnboardRS/zenhub-dev/issues/438">zenhub-dev/#438</a></td> </tr>
 </table>
 </p>
 
